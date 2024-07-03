@@ -1,0 +1,51 @@
+@import url("https://fonts.googleapis.com/css2?family=Quicksand:wght@300..700&display=swap");
+
+@tailwind base;
+@tailwind components;
+@tailwind utilities;
+
+@layer components {
+  .section {
+    @apply w-full py-[30px] xl:py-[60px];
+  }
+
+  .div {
+    @apply mx-auto flex w-full px-[16px] sm:max-xl:max-w-[640px] xl:max-w-[1440px] xl:px-[80px];
+  }
+
+  .btn-blue {
+    @apply font-quicksand flex w-fit items-center justify-center bg-blue px-[16px] py-[12px] font-semibold text-white;
+  }
+
+  .btn-green {
+    @apply font-quicksand flex w-fit items-center justify-center gap-[8px] bg-green px-[16px] py-[12px] font-semibold text-white;
+  }
+
+  .btn-red {
+    @apply font-quicksand bg-red flex w-fit items-center justify-center px-[16px] py-[12px] font-semibold text-white;
+  }
+
+  .font-12 {
+    @apply font-quicksand text-[12px] text-black;
+  }
+
+  .font-14 {
+    @apply font-quicksand text-[14px] text-black;
+  }
+
+  .font-16 {
+    @apply font-quicksand text-[16px] text-black xl:text-[20px];
+  }
+
+  .font-20 {
+    @apply font-quicksand text-[20px] text-black xl:text-[24px];
+  }
+
+  .font-28 {
+    @apply font-quicksand text-[28px] leading-tight text-black xl:text-[48px];
+  }
+
+  .font-36 {
+    @apply font-quicksand text-[36px] leading-tight text-black xl:text-[56px];
+  }
+}
