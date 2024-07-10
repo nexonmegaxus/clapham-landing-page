@@ -309,6 +309,10 @@
                         Looking for the perfect workspace can be a hassle. Let us take care of the search and find the ideal
                         workspace that suits your needs.
                     </p>
+                    <iframe
+                        src="https://share-eu1.hsforms.com/1lJmwvKcOQiO0mhY4lJY28wg3ts2"
+                        class="h-[600px] w-full border border-[#aaa]"
+                    ></iframe>
                 </div>
             </div>
         </section>
