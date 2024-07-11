@@ -18,11 +18,11 @@
     }
 
     .btn-green {
-        @apply flex w-fit items-center justify-center gap-[8px] bg-green px-[16px] py-[12px] font-quicksand font-semibold text-white;
+        @apply bg-custom-green flex w-fit items-center justify-center gap-[8px] px-[16px] py-[12px] font-quicksand font-semibold text-white;
     }
 
     .btn-red {
-        @apply flex w-fit items-center justify-center bg-red px-[16px] py-[12px] font-quicksand font-semibold text-white;
+        @apply bg-custom-red flex w-fit items-center justify-center px-[16px] py-[12px] font-quicksand font-semibold text-white;
     }
 
     .font-12 {

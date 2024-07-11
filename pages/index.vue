@@ -73,7 +73,7 @@
                 <div
                     class="mx-auto flex max-w-[420px] flex-col gap-[24px] xl:mt-[32px] xl:grid xl:max-w-full xl:grid-cols-2 xl:gap-[40px]"
                 >
-                    <card class="flex flex-col xl:flex-row">
+                    <div class="flex flex-col xl:flex-row">
                         <img src="/img/layanan-kami-1.png" class="w-full xl:w-[260px] xl:object-cover" />
                         <div class="flex flex-col gap-[8px] bg-[#F6F7F8] p-[16px] xl:p-[24px]">
                             <p class="font-20 font-bold">Private Office</p>
@@ -91,8 +91,8 @@
                                 WhatsApp Kami</a
                             >
                         </div>
-                    </card>
-                    <card class="flex flex-col xl:flex-row">
+                    </div>
+                    <div class="flex flex-col xl:flex-row">
                         <img src="/img/layanan-kami-2.png" class="w-full xl:w-[260px] xl:object-cover" />
                         <div class="flex flex-col gap-[8px] bg-[#F6F7F8] p-[16px] xl:p-[24px]">
                             <p class="font-20 font-bold">Event Space</p>
@@ -112,8 +112,8 @@
                                 WhatsApp Kami</a
                             >
                         </div>
-                    </card>
-                    <card class="flex flex-col xl:flex-row">
+                    </div>
+                    <div class="flex flex-col xl:flex-row">
                         <img src="/img/layanan-kami-3.png" class="w-full xl:w-[260px] xl:object-cover" />
                         <div class="flex flex-col gap-[8px] bg-[#F6F7F8] p-[16px] xl:p-[24px]">
                             <p class="font-20 font-bold">Daily Pass</p>
@@ -131,8 +131,8 @@
                                 WhatsApp Kami</a
                             >
                         </div>
-                    </card>
-                    <card class="flex flex-col xl:flex-row">
+                    </div>
+                    <div class="flex flex-col xl:flex-row">
                         <img src="/img/layanan-kami-4.png" class="w-full xl:w-[260px] xl:object-cover" />
                         <div class="flex flex-col gap-[8px] bg-[#F6F7F8] p-[16px] xl:p-[24px]">
                             <p class="font-20 font-bold">Meeting Room</p>
@@ -152,8 +152,8 @@
                                 WhatsApp Kami</a
                             >
                         </div>
-                    </card>
-                    <card class="flex flex-col xl:flex-row">
+                    </div>
+                    <div class="flex flex-col xl:flex-row">
                         <img src="/img/layanan-kami-5.png" class="w-full xl:w-[260px] xl:object-cover" />
                         <div class="flex flex-col gap-[8px] bg-[#F6F7F8] p-[16px] xl:p-[24px]">
                             <p class="font-20 font-bold">Flexible Desk</p>
@@ -171,8 +171,8 @@
                                 WhatsApp Kami</a
                             >
                         </div>
-                    </card>
-                    <card class="flex flex-col xl:flex-row">
+                    </div>
+                    <div class="flex flex-col xl:flex-row">
                         <img src="/img/layanan-kami-6.png" class="w-full xl:w-[260px] xl:object-cover" />
                         <div class="flex flex-col gap-[8px] bg-[#F6F7F8] p-[16px] xl:p-[24px]">
                             <p class="font-20 font-bold">Dedicated Desk</p>
@@ -192,7 +192,7 @@
                                 WhatsApp Kami</a
                             >
                         </div>
-                    </card>
+                    </div>
                 </div>
             </div>
         </section>
@@ -262,14 +262,14 @@
                         ></iframe>
                     </div>
                     <div class="flex flex-col gap-[16px] xl:grid xl:grid-cols-2">
-                        <card class="flex flex-row items-start gap-[16px] bg-light-grey p-[20px]">
+                        <div class="flex flex-row items-start gap-[16px] bg-light-grey p-[20px]">
                             <img src="/img/facilities1.png" alt="" class="w-fit" />
                             <div>
                                 <p class="font-16 mb-[8px] font-bold">Kereta Api</p>
                                 <p class="font-12 xl:font-14">Stasiun Kereta Api Bandara (400 m)</p>
                             </div>
-                        </card>
-                        <card class="flex flex-row items-start gap-[16px] bg-light-grey p-[20px]">
+                        </div>
+                        <div class="flex flex-row items-start gap-[16px] bg-light-grey p-[20px]">
                             <img src="/img/facilities2.png" alt="" class="w-fit" />
                             <div>
                                 <p class="font-16 mb-[8px] font-bold">Taksi & Kendaraan Online</p>
@@ -278,15 +278,15 @@
                                     Base Camp Grab (210 m)
                                 </p>
                             </div>
-                        </card>
-                        <card class="flex flex-row items-start gap-[16px] bg-light-grey p-[20px]">
+                        </div>
+                        <div class="flex flex-row items-start gap-[16px] bg-light-grey p-[20px]">
                             <img src="/img/facilities3.png" alt="" class="w-fit" />
                             <div>
                                 <p class="font-16 mb-[8px] font-bold">Rumah Sakit</p>
                                 <p class="font-12 xl:font-14">Rumah Sakit Murni Teguh Memoria (290 m)</p>
                             </div>
-                        </card>
-                        <card class="flex flex-row items-start gap-[16px] bg-light-grey p-[20px]">
+                        </div>
+                        <div class="flex flex-row items-start gap-[16px] bg-light-grey p-[20px]">
                             <img src="/img/facilities4.png" alt="" class="w-fit" />
                             <div>
                                 <p class="font-16 mb-[8px] font-bold">Hotel</p>
@@ -295,29 +295,29 @@
                                     Hotel Boutique Karibia (250 m)
                                 </p>
                             </div>
-                        </card>
-                        <card class="flex flex-row items-start gap-[16px] bg-light-grey p-[20px]">
+                        </div>
+                        <div class="flex flex-row items-start gap-[16px] bg-light-grey p-[20px]">
                             <img src="/img/facilities5.png" alt="" class="w-fit" />
                             <div>
                                 <p class="font-16 mb-[8px] font-bold">Gym</p>
                                 <p class="font-12 xl:font-14">Vista Gym (76 m)</p>
                             </div>
-                        </card>
-                        <card class="flex flex-row items-start gap-[16px] bg-light-grey p-[20px]">
+                        </div>
+                        <div class="flex flex-row items-start gap-[16px] bg-light-grey p-[20px]">
                             <img src="/img/facilities6.png" alt="" class="w-fit" />
                             <div>
                                 <p class="font-16 mb-[8px] font-bold">Mall</p>
                                 <p class="font-12 xl:font-14">Center Point (230 m)</p>
                             </div>
-                        </card>
-                        <card class="flex flex-row items-start gap-[16px] bg-light-grey p-[20px]">
+                        </div>
+                        <div class="flex flex-row items-start gap-[16px] bg-light-grey p-[20px]">
                             <img src="/img/facilities7.png" alt="" class="w-fit" />
                             <div>
                                 <p class="font-16 mb-[8px] font-bold">Restoran</p>
                                 <p class="font-12 xl:font-14">Nasi Padang Istana Krakatau (220 m)</p>
                             </div>
-                        </card>
-                        <card class="flex flex-row items-start gap-[16px] bg-light-grey p-[20px]">
+                        </div>
+                        <div class="flex flex-row items-start gap-[16px] bg-light-grey p-[20px]">
                             <img src="/img/facilities8.png" alt="" class="w-fit" />
                             <div>
                                 <p class="font-16 mb-[8px] font-bold">Cafe</p>
@@ -327,8 +327,8 @@
                                     Coffeenatics (80 m)
                                 </p>
                             </div>
-                        </card>
-                        <card class="flex flex-row items-start gap-[16px] bg-light-grey p-[20px]">
+                        </div>
+                        <div class="flex flex-row items-start gap-[16px] bg-light-grey p-[20px]">
                             <img src="/img/facilities9.png" alt="" class="w-fit" />
                             <div>
                                 <p class="font-16 mb-[8px] font-bold">Bar</p>
@@ -337,7 +337,7 @@
                                     Merdeka Walk (50 m)
                                 </p>
                             </div>
-                        </card>
+                        </div>
                     </div>
                 </div>
                 <!--  -->
@@ -361,7 +361,7 @@
                     <span class="text-red">Clapham</span>
                 </p>
                 <div class="flex flex-col gap-[24px] xl:grid xl:grid-cols-2">
-                    <card class="flex flex-col gap-[16px] bg-light-grey p-[16px]">
+                    <div class="flex flex-col gap-[16px] bg-light-grey p-[16px]">
                         <div class="flex items-center justify-between">
                             <img src="/img/avatar1.png" alt="" class="w-[80px] rounded-full" />
                             <img src="/img/semicolon.png" alt="" class="w-[32px]" />
@@ -374,8 +374,8 @@
                             Akselerator startup terbaik di Medan! Clapham memberikan kenyamanan dan ruang kantor profesional.
                             Banyak perusahaan startup berkumpul di sini untuk berbagi ilmu.
                         </p>
-                    </card>
-                    <card class="flex flex-col gap-[16px] bg-light-grey p-[16px]">
+                    </div>
+                    <div class="flex flex-col gap-[16px] bg-light-grey p-[16px]">
                         <div class="flex items-center justify-between">
                             <img src="/img/avatar2.png" alt="" class="w-[80px] rounded-full" />
                             <img src="/img/semicolon.png" alt="" class="w-[32px]" />
@@ -385,8 +385,8 @@
                             <p class="font-14 font-medium text-[#414346] xl:text-[20px]">Chief Investment Strategist</p>
                         </div>
                         <p class="font-14 xl:text-[16px]">Pengalaman bagus, lokasi strategis, dan layanan yang luar biasa.</p>
-                    </card>
-                    <card class="flex flex-col gap-[16px] bg-light-grey p-[16px]">
+                    </div>
+                    <div class="flex flex-col gap-[16px] bg-light-grey p-[16px]">
                         <div class="flex items-center justify-between">
                             <img src="/img/avatar3.png" alt="" class="w-[80px] rounded-full" />
                             <img src="/img/semicolon.png" alt="" class="w-[32px]" />
@@ -399,8 +399,8 @@
                             Salah satu tempat paling inspiratif di kota. Saya tumbuh selangkah lebih baik setiap kali saya
                             meninggalkan gedung ini. Kudos to the team!!!
                         </p>
-                    </card>
-                    <card class="flex flex-col gap-[16px] bg-light-grey p-[16px]">
+                    </div>
+                    <div class="flex flex-col gap-[16px] bg-light-grey p-[16px]">
                         <div class="flex items-center justify-between">
                             <img src="/img/avatar4.png" alt="" class="w-[80px] rounded-full" />
                             <img src="/img/semicolon.png" alt="" class="w-[32px]" />
@@ -412,7 +412,7 @@
                         <p class="font-14 xl:text-[16px]">
                             Tempat yang sangat bagus untuk persewaan ruang kantor dan acara seminar.
                         </p>
-                    </card>
+                    </div>
                 </div>
             </div>
         </section>
@@ -483,7 +483,7 @@
                     <p class="font-28 font-bold">Apa yang ingin Anda ketahui?</p>
                 </div>
                 <div class="flex flex-col gap-[24px]">
-                    <faq
+                    <div
                         class="xl:pb-[30px]mb-[30px] mb-[16px] flex flex-col gap-[16px] border-b-2 border-grey pb-[16px] xl:gap-[8px]"
                     >
                         <p class="font-16 font-bold">Apa keuntungan sewa private office space di Clapham?</p>
@@ -491,16 +491,16 @@
                             Sewa space kantor di Clapham menawarkan berbagai keuntungan karena dirancang secara cermat untuk
                             memenuhi kebutuhan unik Anda.
                         </p>
-                    </faq>
-                    <faq
+                    </div>
+                    <div
                         class="xl:pb-[30px]mb-[30px] mb-[16px] flex flex-col gap-[16px] border-b-2 border-grey pb-[16px] xl:gap-[8px]"
                     >
                         <p class="font-16 font-bold">Berapa harga sewa awal untuk space kantor di Clapham Medan?</p>
                         <p class="font-14 text-[#292929]">
                             Harga awal untuk biaya sewa bulanan kantor di Clapham Medan mulai dari Rp 5.000.000 per bulan.
                         </p>
-                    </faq>
-                    <faq
+                    </div>
+                    <div
                         class="xl:pb-[30px]mb-[30px] mb-[16px] flex flex-col gap-[16px] border-b-2 border-grey pb-[16px] xl:gap-[8px]"
                     >
                         <p class="font-16 font-bold">Apa jam operasional untuk kantor pribadi dan ruang acara?</p>
@@ -508,8 +508,8 @@
                             Jam operasional kami adalah Senin hingga Jumat dari jam 09:00 pagi hingga 17:00 sore, dan Sabtu dari
                             jam 09:00 pagi hingga 14:00 siang.
                         </p>
-                    </faq>
-                    <faq
+                    </div>
+                    <div
                         class="xl:pb-[30px]mb-[30px] mb-[16px] flex flex-col gap-[16px] border-b-2 border-grey pb-[16px] xl:gap-[8px]"
                     >
                         <p class="font-16 font-bold">Fasilitas apa saja yang tersedia di sekitar ruang kantor?</p>
@@ -523,8 +523,8 @@
                             Co-working & Event Space, Ruko Centre Point Medan, Jalan Timor Blok G No. III/IV Lantai 2, Gang Buntu,
                             Medan Timur, Kota Medan, Sumatera Utara 20231.
                         </p>
-                    </faq>
-                    <faq
+                    </div>
+                    <div
                         class="xl:pb-[30px]mb-[30px] mb-[16px] flex flex-col gap-[16px] border-b-2 border-grey pb-[16px] xl:gap-[8px]"
                     >
                         <p class="font-16 font-bold">Jenis acara apa saja yang bisa diadakan di ruang acara Clapham?</p>
@@ -532,8 +532,8 @@
                             Ruang aula acara kami sempurna untuk seminar, konferensi pers, dan pertemuan perusahaan besar karena
                             ruangan ini dapat menampung hingga 500 orang.
                         </p>
-                    </faq>
-                    <faq
+                    </div>
+                    <div
                         class="xl:pb-[30px]mb-[30px] mb-[16px] flex flex-col gap-[16px] border-b-2 border-grey pb-[16px] xl:gap-[8px]"
                     >
                         <p class="font-16 font-bold">Apa jam operasional untuk kantor pribadi dan ruang acara?</p>
@@ -541,16 +541,16 @@
                             Jam operasional kami adalah Senin hingga Jumat dari jam 09:00 pagi hingga 17:00 sore, dan Sabtu dari
                             jam 09:00 pagi hingga 14:00 siang.
                         </p>
-                    </faq>
-                    <faq
+                    </div>
+                    <div
                         class="xl:pb-[30px]mb-[30px] mb-[16px] flex flex-col gap-[16px] border-b-2 border-grey pb-[16px] xl:gap-[8px]"
                     >
                         <p class="font-16 font-bold">Berapa harga awal untuk menyewa ruang acara di Clapham Medan?</p>
                         <p class="font-14 text-[#292929]">
                             Harga awal untuk ruang sewa ruang aula acara kami mulai dari Rp 550.000 per jam.
                         </p>
-                    </faq>
-                    <faq
+                    </div>
+                    <div
                         class="xl:pb-[30px]mb-[30px] mb-[16px] flex flex-col gap-[16px] border-b-2 border-grey pb-[16px] xl:gap-[8px]"
                     >
                         <p class="font-16 font-bold">
@@ -561,7 +561,7 @@
                             untuk tim dengan berbagai ukuran. Ruang kerja yang kami sewakan dirancang untuk menyediakan lingkungan
                             kerja yang didedikasikan dan profesional sesuai kebutuhan bisnis Anda.
                         </p>
-                    </faq>
+                    </div>
                 </div>
             </div>
         </section>

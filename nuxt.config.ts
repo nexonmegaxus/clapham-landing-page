@@ -1,15 +1,12 @@
 // https://nuxt.com/docs/api/configuration/nuxt-config
 export default defineNuxtConfig({
-    modules: ['@zadigetvoltaire/nuxt-gtm'],
+    modules: ['@zadigetvoltaire/nuxt-gtm', '@nuxt/ui'],
     devtools: { enabled: true },
-    css: ['~/assets/css/tailwind.css'],
-    postcss: {
-        plugins: {
-            tailwindcss: {},
-            autoprefixer: {},
-        },
-    },
     gtm: {
         id: 'GTM-WM5BPQP',
+    },
+
+    ui: {
+        icons: ['heroicons'],
     },
 });
