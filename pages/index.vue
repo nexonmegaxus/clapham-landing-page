@@ -18,7 +18,13 @@
                         <p class="font-36 font-bold text-white">Solusi Sewa Ruang Kantor dan Acara di Medan.</p>
                     </div>
                     <div class="flex gap-[24px]">
-                        <a href="#forms" class="btn-red">Dapatkan Penawaran</a>
+                        <a
+                            href="https://api.whatsapp.com/send/?phone=6282127832456&text&type=phone_number&app_absent=0"
+                            class="btn-green mt-[16px]"
+                        >
+                            <img src="/img/wa-white.png" alt="" />
+                            WhatsApp Kami</a
+                        >
                     </div>
                     <div class="flex justify-between gap-[8px] xl:pb-[32px]">
                         <div class="flex flex-col items-center gap-[8px]">
@@ -64,7 +70,9 @@
                         pengguna Clapham.
                     </p>
                 </div>
-                <div class="mx-auto max-w-[420px] xl:mt-[32px] xl:grid xl:max-w-full xl:grid-cols-2 xl:gap-[40px]">
+                <div
+                    class="mx-auto flex max-w-[420px] flex-col gap-[24px] xl:mt-[32px] xl:grid xl:max-w-full xl:grid-cols-2 xl:gap-[40px]"
+                >
                     <card class="flex flex-col xl:flex-row">
                         <img src="/img/layanan-kami-1.png" class="w-full xl:w-[260px] xl:object-cover" />
                         <div class="flex flex-col gap-[8px] bg-[#F6F7F8] p-[16px] xl:p-[24px]">
@@ -377,6 +385,33 @@
                             <p class="font-14 font-medium text-[#414346] xl:text-[20px]">Chief Investment Strategist</p>
                         </div>
                         <p class="font-14 xl:text-[16px]">Pengalaman bagus, lokasi strategis, dan layanan yang luar biasa.</p>
+                    </card>
+                    <card class="flex flex-col gap-[16px] bg-light-grey p-[16px]">
+                        <div class="flex items-center justify-between">
+                            <img src="/img/avatar3.png" alt="" class="w-[80px] rounded-full" />
+                            <img src="/img/semicolon.png" alt="" class="w-[32px]" />
+                        </div>
+                        <div>
+                            <p class="font-16 font-bold xl:mb-[8px] xl:text-[28px]">Steven Guntur</p>
+                            <p class="font-14 font-medium text-[#414346] xl:text-[20px]">Dokter Anak</p>
+                        </div>
+                        <p class="font-14 xl:text-[16px]">
+                            Salah satu tempat paling inspiratif di kota. Saya tumbuh selangkah lebih baik setiap kali saya
+                            meninggalkan gedung ini. Kudos to the team!!!
+                        </p>
+                    </card>
+                    <card class="flex flex-col gap-[16px] bg-light-grey p-[16px]">
+                        <div class="flex items-center justify-between">
+                            <img src="/img/avatar4.png" alt="" class="w-[80px] rounded-full" />
+                            <img src="/img/semicolon.png" alt="" class="w-[32px]" />
+                        </div>
+                        <div>
+                            <p class="font-16 font-bold xl:mb-[8px] xl:text-[28px]">Hendra Soewarno</p>
+                            <p class="font-14 font-medium text-[#414346] xl:text-[20px]">Dosen IT di STMIK IBBI</p>
+                        </div>
+                        <p class="font-14 xl:text-[16px]">
+                            Tempat yang sangat bagus untuk persewaan ruang kantor dan acara seminar.
+                        </p>
                     </card>
                 </div>
             </div>
