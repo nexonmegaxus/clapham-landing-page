@@ -45,8 +45,24 @@
         <!-- Logo -->
         <section class="section bg-c-white">
             <div
-                class="div grid grid-cols-3 items-center justify-center justify-items-center gap-[32px] text-center opacity-50 grayscale xl:grid-cols-5"
+                class="div animate-loop-scroll flex items-center justify-center gap-[64px] text-center opacity-50 grayscale"
+                aria-hidden="true"
             >
+                <img src="/img/logo1.png" alt="" />
+                <img src="/img/logo2.png" alt="" />
+                <img src="/img/logo3.png" alt="" />
+                <img src="/img/logo4.png" alt="" />
+                <img src="/img/logo5.png" alt="" />
+                <img src="/img/logo1.png" alt="" />
+                <img src="/img/logo2.png" alt="" />
+                <img src="/img/logo3.png" alt="" />
+                <img src="/img/logo4.png" alt="" />
+                <img src="/img/logo5.png" alt="" />
+                <img src="/img/logo1.png" alt="" />
+                <img src="/img/logo2.png" alt="" />
+                <img src="/img/logo3.png" alt="" />
+                <img src="/img/logo4.png" alt="" />
+                <img src="/img/logo5.png" alt="" />
                 <img src="/img/logo1.png" alt="" />
                 <img src="/img/logo2.png" alt="" />
                 <img src="/img/logo3.png" alt="" />
