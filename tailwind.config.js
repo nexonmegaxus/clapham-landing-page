@@ -3,13 +3,14 @@ export default {
     theme: {
         extend: {
             colors: {
-                'custom-black': '#1F2122',
-                'custom-teal': '#90C8AF',
-                'custom-green': '#4CA76C',
-                'custom-blue': '#025985',
-                'custom-grey': '#AAADB1',
-                'custom-red': '#AF2F2F',
-                'light-grey': '#F6F7F8',
+                'c-white': '#FFFFFF',
+                'c-black': '#1F2122',
+                'c-teal': '#90C8AF',
+                'c-green': '#4CA76C',
+                'c-blue': '#025985',
+                'c-grey': '#AAADB1',
+                'c-red': '#AF2F2F',
+                'c-light-grey': '#F6F7F8',
             },
         },
         fontFamily: {

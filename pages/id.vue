@@ -14,7 +14,7 @@
                 <div class="flex flex-col gap-[32px] xl:pt-[120px]">
                     <img src="/img/hero2.png" alt="" />
                     <div>
-                        <p class="font-20 mb-[8px] font-semibold text-teal">Clapham Collective</p>
+                        <p class="font-20 text-teal mb-[8px] font-semibold">Clapham Collective</p>
                         <p class="font-36 font-bold text-white">Solusi Sewa Ruang Kantor dan Acara di Medan.</p>
                     </div>
                     <div class="flex gap-[24px]">
@@ -23,15 +23,15 @@
                     <div class="flex justify-between gap-[8px] xl:pb-[32px]">
                         <div class="flex flex-col items-center gap-[8px]">
                             <p class="font-36 font-bold text-white">35+</p>
-                            <p class="font-14 font-normal text-grey xl:text-[20px]">Ruang Rapat</p>
+                            <p class="font-14 text-grey font-normal xl:text-[20px]">Ruang Rapat</p>
                         </div>
                         <div class="flex flex-col items-center gap-[8px]">
                             <p class="font-36 font-bold text-white">20+</p>
-                            <p class="font-14 font-normal text-grey xl:text-[20px]">Ruang Kerja</p>
+                            <p class="font-14 text-grey font-normal xl:text-[20px]">Ruang Kerja</p>
                         </div>
                         <div class="flex flex-col items-center gap-[8px]">
                             <p class="font-36 font-bold text-white">10+</p>
-                            <p class="font-14 font-normal text-grey xl:text-[20px]">Perusahaan</p>
+                            <p class="font-14 text-grey font-normal xl:text-[20px]">Perusahaan</p>
                         </div>
                     </div>
                 </div>
@@ -173,7 +173,6 @@
                             width="100%"
                             height="450"
                             style="border: 0"
-                            allowfullscreen=""
                             loading="lazy"
                             referrerpolicy="no-referrer-when-downgrade"
                         ></iframe>
@@ -334,7 +333,7 @@
                 </div>
                 <div class="flex flex-col gap-[24px]">
                     <faq
-                        class="xl:pb-[30px]mb-[30px] mb-[16px] flex flex-col gap-[16px] border-b-2 border-grey pb-[16px] xl:gap-[8px]"
+                        class="xl:pb-[30px]mb-[30px] border-grey mb-[16px] flex flex-col gap-[16px] border-b-2 pb-[16px] xl:gap-[8px]"
                     >
                         <p class="font-16 font-bold">Apa keuntungan sewa private office space di Clapham?</p>
                         <p class="font-14 text-[#292929]">
@@ -343,7 +342,7 @@
                         </p>
                     </faq>
                     <faq
-                        class="xl:pb-[30px]mb-[30px] mb-[16px] flex flex-col gap-[16px] border-b-2 border-grey pb-[16px] xl:gap-[8px]"
+                        class="xl:pb-[30px]mb-[30px] border-grey mb-[16px] flex flex-col gap-[16px] border-b-2 pb-[16px] xl:gap-[8px]"
                     >
                         <p class="font-16 font-bold">Berapa harga sewa awal untuk space kantor di Clapham Medan?</p>
                         <p class="font-14 text-[#292929]">
@@ -351,7 +350,7 @@
                         </p>
                     </faq>
                     <faq
-                        class="xl:pb-[30px]mb-[30px] mb-[16px] flex flex-col gap-[16px] border-b-2 border-grey pb-[16px] xl:gap-[8px]"
+                        class="xl:pb-[30px]mb-[30px] border-grey mb-[16px] flex flex-col gap-[16px] border-b-2 pb-[16px] xl:gap-[8px]"
                     >
                         <p class="font-16 font-bold">Apa jam operasional untuk kantor pribadi dan ruang acara?</p>
                         <p class="font-14 text-[#292929]">
@@ -360,7 +359,7 @@
                         </p>
                     </faq>
                     <faq
-                        class="xl:pb-[30px]mb-[30px] mb-[16px] flex flex-col gap-[16px] border-b-2 border-grey pb-[16px] xl:gap-[8px]"
+                        class="xl:pb-[30px]mb-[30px] border-grey mb-[16px] flex flex-col gap-[16px] border-b-2 pb-[16px] xl:gap-[8px]"
                     >
                         <p class="font-16 font-bold">Fasilitas apa saja yang tersedia di sekitar ruang kantor?</p>
                         <p class="font-14 text-[#292929]">
@@ -375,7 +374,7 @@
                         </p>
                     </faq>
                     <faq
-                        class="xl:pb-[30px]mb-[30px] mb-[16px] flex flex-col gap-[16px] border-b-2 border-grey pb-[16px] xl:gap-[8px]"
+                        class="xl:pb-[30px]mb-[30px] border-grey mb-[16px] flex flex-col gap-[16px] border-b-2 pb-[16px] xl:gap-[8px]"
                     >
                         <p class="font-16 font-bold">Jenis acara apa saja yang bisa diadakan di ruang acara Clapham?</p>
                         <p class="font-14 text-[#292929]">
@@ -384,7 +383,7 @@
                         </p>
                     </faq>
                     <faq
-                        class="xl:pb-[30px]mb-[30px] mb-[16px] flex flex-col gap-[16px] border-b-2 border-grey pb-[16px] xl:gap-[8px]"
+                        class="xl:pb-[30px]mb-[30px] border-grey mb-[16px] flex flex-col gap-[16px] border-b-2 pb-[16px] xl:gap-[8px]"
                     >
                         <p class="font-16 font-bold">Apa jam operasional untuk kantor pribadi dan ruang acara?</p>
                         <p class="font-14 text-[#292929]">
@@ -393,7 +392,7 @@
                         </p>
                     </faq>
                     <faq
-                        class="xl:pb-[30px]mb-[30px] mb-[16px] flex flex-col gap-[16px] border-b-2 border-grey pb-[16px] xl:gap-[8px]"
+                        class="xl:pb-[30px]mb-[30px] border-grey mb-[16px] flex flex-col gap-[16px] border-b-2 pb-[16px] xl:gap-[8px]"
                     >
                         <p class="font-16 font-bold">Berapa harga awal untuk menyewa ruang acara di Clapham Medan?</p>
                         <p class="font-14 text-[#292929]">
@@ -401,7 +400,7 @@
                         </p>
                     </faq>
                     <faq
-                        class="xl:pb-[30px]mb-[30px] mb-[16px] flex flex-col gap-[16px] border-b-2 border-grey pb-[16px] xl:gap-[8px]"
+                        class="xl:pb-[30px]mb-[30px] border-grey mb-[16px] flex flex-col gap-[16px] border-b-2 pb-[16px] xl:gap-[8px]"
                     >
                         <p class="font-16 font-bold">
                             Jenis ruang kerja atau kantor pribadi apa saja yang Clapham Medan tawarkan?

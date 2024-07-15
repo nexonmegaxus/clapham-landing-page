@@ -14,39 +14,39 @@
     }
 
     .btn-blue {
-        @apply flex w-fit items-center justify-center bg-blue px-[16px] py-[12px] font-quicksand font-semibold text-white;
+        @apply bg-c-blue text-c-white flex w-fit items-center justify-center px-[16px] py-[12px] font-quicksand font-semibold transition hover:scale-105 hover:bg-blue-900;
     }
 
     .btn-green {
-        @apply bg-custom-green flex w-fit items-center justify-center gap-[8px] px-[16px] py-[12px] font-quicksand font-semibold text-white;
+        @apply bg-c-green text-c-white flex w-fit items-center justify-center gap-[8px] px-[16px] py-[12px] font-quicksand font-semibold transition hover:scale-105 hover:bg-green-900;
     }
 
     .btn-red {
-        @apply bg-custom-red flex w-fit items-center justify-center px-[16px] py-[12px] font-quicksand font-semibold text-white;
+        @apply bg-c-red text-c-white flex w-fit items-center justify-center px-[16px] py-[12px] font-quicksand font-semibold transition hover:scale-105 hover:bg-red-900;
     }
 
     .font-12 {
-        @apply font-quicksand text-[12px] text-black;
+        @apply text-c-black font-quicksand text-[12px];
     }
 
     .font-14 {
-        @apply font-quicksand text-[14px] text-black;
+        @apply text-c-black font-quicksand text-[14px];
     }
 
     .font-16 {
-        @apply font-quicksand text-[16px] text-black xl:text-[20px];
+        @apply text-c-black font-quicksand text-[16px] xl:text-[20px];
     }
 
     .font-20 {
-        @apply font-quicksand text-[20px] text-black xl:text-[24px];
+        @apply text-c-black font-quicksand text-[20px] xl:text-[24px];
     }
 
     .font-28 {
-        @apply font-quicksand text-[28px] leading-tight text-black xl:text-[48px];
+        @apply text-c-black font-quicksand text-[28px] leading-tight xl:text-[48px];
     }
 
     .font-36 {
-        @apply font-quicksand text-[36px] leading-tight text-black xl:text-[56px];
+        @apply text-c-black font-quicksand text-[36px] leading-tight xl:text-[56px];
     }
 }
 
