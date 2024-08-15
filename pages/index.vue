@@ -1,8 +1,5 @@
 <template>
     <main>
-        <!-- Navbar -->
-        <Navbar />
-
         <!-- Hero -->
         <section class="section bg-c-black pt-[80px] xl:py-0 xl:pb-0">
             <div class="div xl:grid xl:grid-cols-2 xl:gap-[60px] xl:pr-0">
@@ -407,27 +404,9 @@
         </section>
 
         <!-- Forms -->
-        <section v-motion-slide-visible-once-left :duration="500" class="section" id="forms">
-            <div class="div flex-col gap-[24px] xl:flex-row xl:items-start xl:gap-[44px]">
-                <img src="/img/foo3.png" alt="" />
-                <div class="flex flex-col gap-[16px]">
-                    <p class="font-28 font-bold xl:text-[28px]">Temukan Ruang Kerja Ideal Anda Bersama Kami Sekarang!</p>
-                    <p class="font-16 font-medium text-[#717375] xl:text-[14px]">
-                        Mencari sewa ruang kantor bulanan dan acara yang terjangkau di Medan memang bisa merepotkan. Tapi biarkan
-                        kami yang mencarikannya untuk Anda bersama Clapham Collective.
-                    </p>
-                    <iframe
-                        src="https://share-eu1.hsforms.com/1lJmwvKcOQiO0mhY4lJY28wg3ts2"
-                        class="h-[600px] w-full border border-[#aaa]"
-                    ></iframe>
-                </div>
-            </div>
-        </section>
+        <Forms />
 
         <!-- FAQ -->
         <FAQ />
-
-        <!-- Footer -->
-        <Footer />
     </main>
 </template>
