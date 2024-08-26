@@ -16,4 +16,7 @@ export default defineNuxtConfig({
         BACKEND_URL: process.env.NUXT_BACKEND_URL,
     },
     compatibilityDate: '2024-08-14',
+    colorMode: {
+        preference: 'light',
+    },
 });
