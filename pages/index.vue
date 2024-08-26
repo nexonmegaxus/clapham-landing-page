@@ -42,7 +42,7 @@
         <!-- Logo -->
         <section class="section bg-c-white">
             <div
-                class="div flex animate-loop-scroll items-center justify-center gap-[64px] text-center opacity-50 grayscale"
+                class="div flex animate-loop-scroll items-center justify-center gap-[64px] overflow-hidden text-center opacity-50 grayscale"
                 aria-hidden="true"
             >
                 <img src="/img/logo1.png" alt="" />
