@@ -1,5 +1,5 @@
 <template>
-    <section v-motion-slide-visible-once-right :duration="500" class="section bg-c-light-grey">
+    <section class="section bg-c-light-grey">
         <div class="div flex-col gap-[34px]">
             <div>
                 <img src="/img/redbar.png" alt="" class="mb-[34px]" />

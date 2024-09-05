@@ -1,7 +1,7 @@
 <template>
     <main>
         <!-- Forms -->
-        <section v-motion-slide-visible-once-left :duration="500" class="section" id="forms">
+        <section class="section bg-c-white" id="forms">
             <div class="div flex-col gap-[24px] xl:flex-row xl:items-start xl:gap-[44px]">
                 <img src="/img/foo3.png" alt="" />
                 <div class="flex flex-col gap-[16px]">

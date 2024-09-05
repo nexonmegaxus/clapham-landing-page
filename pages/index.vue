@@ -69,7 +69,7 @@
         </section>
 
         <!-- Layanan Kami -->
-        <section v-motion-slide-visible-once-right :duration="500" class="section bg-c-white">
+        <section class="section bg-c-white">
             <div class="div flex-col gap-[24px]">
                 <div class="flex flex-col gap-[8px] xl:grid xl:grid-cols-2 xl:gap-[80px]">
                     <p class="font-28 font-bold xl:text-[56px]"><span class="text-red">Layanan </span>Kami</p>
@@ -206,7 +206,7 @@
         </section>
 
         <!-- Fasilitas Dan Kelengkapan -->
-        <section v-motion-slide-visible-once-left :duration="500" class="section bg-c-white">
+        <section class="section bg-c-white">
             <div class="div flex-col gap-[24px] xl:gap-[40px]">
                 <div class="flex flex-col gap-[16px] bg-black px-[16px] py-[24px] xl:flex-row xl:items-center xl:justify-end">
                     <img src="/img/redbar.png" alt="" class="w-fit" />
@@ -250,7 +250,7 @@
         </section>
 
         <!-- Fasilitas Di Sekitar -->
-        <section v-motion-slide-visible-once-right :duration="500" class="section bg-c-white">
+        <section class="section bg-c-white">
             <div class="div flex-col gap-[24px] xl:gap-[40px]">
                 <div class="flex flex-col gap-[16px] bg-black px-[16px] py-[24px] xl:flex-row xl:items-center xl:justify-start">
                     <img src="/img/redbar.png" alt="" class="w-fit xl:order-1" />
@@ -352,7 +352,7 @@
         </section>
 
         <!-- Galeri Kami -->
-        <section v-motion-slide-visible-once-left :duration="500" class="section">
+        <section class="section bg-c-white">
             <div class="div flex-col gap-[24px] text-center xl:text-left">
                 <p class="font-28 font-bold">Galeri <span class="text-red">Kami</span></p>
                 <img src="/img/gallery2.png" alt="" class="xl:hidden" />
@@ -364,7 +364,7 @@
         <Testimonials />
 
         <!-- Tentang Clapham -->
-        <section v-motion-slide-visible-once-left :duration="500" class="section bg-white">
+        <section class="section bg-white">
             <div class="div xl:gap- [80px] flex-col gap-[24px] xl:grid xl:grid-cols-2 xl:items-center">
                 <div>
                     <img src="/img/foo2.png" alt="" />
@@ -385,7 +385,7 @@
         </section>
 
         <!-- Kami Menyediakan -->
-        <section v-motion-slide-visible-once-right :duration="500" class="section bg-c-white">
+        <section class="section bg-c-white">
             <div class="div flex-col gap-[24px] xl:grid xl:grid-cols-2 xl:items-center xl:gap-[80px]">
                 <div class="xl:order-1">
                     <img src="/img/foo1.png" alt="" class="w-full" />

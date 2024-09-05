@@ -1,5 +1,5 @@
 <template>
-    <section v-motion-slide-visible-once-right :duration="500" class="section">
+    <section class="section bg-c-white">
         <div class="div flex-col gap-[24px]">
             <p class="font-28 font-bold">
                 Kata Mereka tentang
@@ -12,7 +12,7 @@
                 class="overflow-hidden rounded-lg"
                 arrows
             >
-                <div class="bg-c-light-grey m-[8px] flex w-full flex-col gap-[16px] p-[16px]">
+                <div class="m-[8px] flex w-full flex-col gap-[16px] bg-c-light-grey p-[16px]">
                     <div class="flex items-center justify-between">
                         <img :src="item.avatar" alt="" class="w-[80px] rounded-full" />
                         <img src="/img/semicolon.png" alt="" class="w-[32px]" />
