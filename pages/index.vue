@@ -410,3 +410,11 @@
         <FAQ />
     </main>
 </template>
+
+<script setup>
+useSeoMeta({
+    title: 'Sewa Ruangan Kantor Murah Harga Bulanan di Medan',
+    description:
+        'Ruangan kantor dan event space siap pakai. Sewa ruang kantor di Medan dengan harga bulanan murah, fasilitas kerja lengkap, dan siap disewakan kapan saja..',
+});
+</script>
