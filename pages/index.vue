@@ -7,7 +7,7 @@
                     <img src="/img/hero2.png" alt="" />
                     <div>
                         <p class="font-20 mb-[8px] font-semibold text-c-teal">Clapham Collective</p>
-                        <p class="font-36 font-bold text-c-white">Solusi Sewa Ruang Kantor dan Acara di Medan.</p>
+                        <h1 class="font-36 font-bold text-c-white">Solusi Sewa Ruang Kantor dan Acara di Medan.</h1>
                     </div>
                     <div class="flex gap-[24px]">
                         <a
@@ -72,7 +72,7 @@
         <section class="section bg-c-white">
             <div class="div flex-col gap-[24px]">
                 <div class="flex flex-col gap-[8px] xl:grid xl:grid-cols-2 xl:gap-[80px]">
-                    <p class="font-28 font-bold xl:text-[56px]"><span class="text-red">Layanan </span>Kami</p>
+                    <h2 class="font-28 font-bold xl:text-[56px]"><span class="text-red">Layanan </span>Kami</h2>
                     <p class="font-16 font-medium">
                         Ruang kantor dan acara yang modern dan mewah, lengkap dengan berbagai fasilitas, siap disewakan untuk
                         pengguna Clapham.
@@ -210,7 +210,7 @@
             <div class="div flex-col gap-[24px] xl:gap-[40px]">
                 <div class="flex flex-col gap-[16px] bg-black px-[16px] py-[24px] xl:flex-row xl:items-center xl:justify-end">
                     <img src="/img/redbar.png" alt="" class="w-fit" />
-                    <p class="font-28 font-bold text-white">Fasilitas dan Kelengkapan</p>
+                    <h2 class="font-28 font-bold text-white">Fasilitas dan Kelengkapan</h2>
                 </div>
                 <div class="grid grid-cols-2 gap-[20px] xl:grid-cols-4 xl:gap-[40px]">
                     <div class="flex flex-col gap-[16px] bg-c-light-grey p-[20px]">
@@ -254,7 +254,7 @@
             <div class="div flex-col gap-[24px] xl:gap-[40px]">
                 <div class="flex flex-col gap-[16px] bg-black px-[16px] py-[24px] xl:flex-row xl:items-center xl:justify-start">
                     <img src="/img/redbar.png" alt="" class="w-fit xl:order-1" />
-                    <p class="font-28 font-bold text-white">Fasilitas di Sekitar</p>
+                    <h2 class="font-28 font-bold text-white">Fasilitas di Sekitar</h2>
                 </div>
                 <!--  -->
                 <div class="flex flex-col gap-[24px] xl:grid xl:grid-cols-2 xl:gap-[40px]">
@@ -354,7 +354,7 @@
         <!-- Galeri Kami -->
         <section class="section bg-c-white">
             <div class="div flex-col gap-[24px] text-center xl:text-left">
-                <p class="font-28 font-bold">Galeri <span class="text-red">Kami</span></p>
+                <h2 class="font-28 font-bold">Galeri <span class="text-red">Kami</span></h2>
                 <img src="/img/gallery2.png" alt="" class="xl:hidden" />
                 <img src="/img/gallery1.png" alt="" class="hidden xl:block" />
             </div>
@@ -371,7 +371,7 @@
                 </div>
                 <div class="flex flex-col gap-[16px]">
                     <img src="/img/greenbar.png" alt="" class="w-fit" />
-                    <p class="font-28 font-bold">Tentang Clapham</p>
+                    <h2 class="font-28 font-bold">Tentang Clapham</h2>
                     <p class="font-16">
                         Berdiri sejak 2015, Clapham Collective Private Office Space and Event Space hadir untuk menjawab kebutuhan
                         sewa ruangan kerja bulanan dengan harga murah bagi komunitas wirausaha dan kreatif di Medan. Dengan tekad
