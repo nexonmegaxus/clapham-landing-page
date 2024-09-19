@@ -4,7 +4,7 @@
         <section class="section bg-black pt-[80px] xl:py-0 xl:pb-0">
             <div class="div xl:grid xl:grid-cols-2 xl:gap-[60px] xl:pr-0">
                 <div class="flex flex-col gap-[32px] xl:pt-[120px]">
-                    <img src="/img/hero2.png" alt="" />
+                    <img src="/img/hero2.png" alt="Image" />
                     <div>
                         <p class="font-20 text-teal mb-[8px] font-semibold">Clapham Collective</p>
                         <p class="font-36 font-bold text-white">Solusi Sewa Ruang Kantor dan Acara di Medan.</p>
@@ -28,7 +28,7 @@
                     </div>
                 </div>
                 <div class="hidden xl:flex">
-                    <img src="/img/hero1.png" alt="" />
+                    <img src="/img/hero1.png" alt="Image" />
                 </div>
             </div>
         </section>
@@ -38,11 +38,11 @@
             <div
                 class="div grid grid-cols-3 items-center justify-center justify-items-center gap-[32px] text-center opacity-50 grayscale xl:grid-cols-5"
             >
-                <img src="/img/logo1.png" alt="" />
-                <img src="/img/logo2.png" alt="" />
-                <img src="/img/logo3.png" alt="" />
-                <img src="/img/logo4.png" alt="" />
-                <img src="/img/logo5.png" alt="" />
+                <img src="/img/logo1.png" alt="Image" />
+                <img src="/img/logo2.png" alt="Image" />
+                <img src="/img/logo3.png" alt="Image" />
+                <img src="/img/logo4.png" alt="Image" />
+                <img src="/img/logo5.png" alt="Image" />
             </div>
         </section>
 
@@ -50,10 +50,10 @@
         <section class="section bg-white">
             <div class="div xl:gap- [80px] flex-col gap-[24px] xl:grid xl:grid-cols-2 xl:items-center">
                 <div>
-                    <img src="/img/foo2.png" alt="" />
+                    <img src="/img/foo2.png" alt="Image" />
                 </div>
                 <div class="flex flex-col gap-[16px]">
-                    <img src="/img/greenbar.png" alt="" class="w-fit" />
+                    <img src="/img/greenbar.png" alt="Image" class="w-fit" />
                     <p class="font-28 font-bold">Tentang Clapham</p>
                     <p class="font-16">
                         Berdiri sejak 2015, Clapham Collective Private Office Space and Event Space hadir untuk menjawab kebutuhan
@@ -91,40 +91,40 @@
         <section class="section bg-white">
             <div class="div flex-col gap-[24px] xl:gap-[40px]">
                 <div class="flex flex-col gap-[16px] bg-black px-[16px] py-[24px] xl:flex-row xl:items-center xl:justify-end">
-                    <img src="/img/redbar.png" alt="" class="w-fit" />
+                    <img src="/img/redbar.png" alt="Image" class="w-fit" />
                     <p class="font-28 font-bold text-white">Fasilitas dan Kelengkapan</p>
                 </div>
                 <div class="grid grid-cols-2 gap-[20px] xl:grid-cols-4 xl:gap-[40px]">
                     <div class="bg-light-grey flex flex-col gap-[16px] p-[20px]">
-                        <img src="/img/amenities1.png" alt="" class="w-fit" />
+                        <img src="/img/amenities1.png" alt="Image" class="w-fit" />
                         <p class="font-16 font-bold">Wi-fi Berkecepatan Tinggi</p>
                     </div>
                     <div class="bg-light-grey flex flex-col gap-[16px] p-[20px]">
-                        <img src="/img/amenities2.png" alt="" class="w-fit" />
+                        <img src="/img/amenities2.png" alt="Image" class="w-fit" />
                         <p class="font-16 font-bold">Minuman Gratis</p>
                     </div>
                     <div class="bg-light-grey flex flex-col gap-[16px] p-[20px]">
-                        <img src="/img/amenities3.png" alt="" class="w-fit" />
+                        <img src="/img/amenities3.png" alt="Image" class="w-fit" />
                         <p class="font-16 font-bold">Projektor HD</p>
                     </div>
                     <div class="bg-light-grey flex flex-col gap-[16px] p-[20px]">
-                        <img src="/img/amenities4.png" alt="" class="w-fit" />
+                        <img src="/img/amenities4.png" alt="Image" class="w-fit" />
                         <p class="font-16 font-bold">Layanan Printing</p>
                     </div>
                     <div class="bg-light-grey flex flex-col gap-[16px] p-[20px]">
-                        <img src="/img/amenities5.png" alt="" class="w-fit" />
+                        <img src="/img/amenities5.png" alt="Image" class="w-fit" />
                         <p class="font-16 font-bold">Layanan Resepsionis</p>
                     </div>
                     <div class="bg-light-grey flex flex-col gap-[16px] p-[20px]">
-                        <img src="/img/amenities6.png" alt="" class="w-fit" />
+                        <img src="/img/amenities6.png" alt="Image" class="w-fit" />
                         <p class="font-16 font-bold">Pantry</p>
                     </div>
                     <div class="bg-light-grey flex flex-col gap-[16px] p-[20px]">
-                        <img src="/img/amenities7.png" alt="" class="w-fit" />
+                        <img src="/img/amenities7.png" alt="Image" class="w-fit" />
                         <p class="font-16 font-bold">Penanganan Surat & Paket</p>
                     </div>
                     <div class="bg-light-grey flex flex-col gap-[16px] p-[20px]">
-                        <img src="/img/amenities8.png" alt="" class="w-fit" />
+                        <img src="/img/amenities8.png" alt="Image" class="w-fit" />
                         <p class="font-16 font-bold">Akses ke Area Umum</p>
                     </div>
                 </div>
@@ -135,7 +135,7 @@
         <section class="section bg-white">
             <div class="div flex-col gap-[24px] xl:grid xl:grid-cols-2 xl:items-center xl:gap-[80px]">
                 <div class="flex flex-col gap-[16px]">
-                    <img src="/img/greenbar.png" alt="" class="w-fit" />
+                    <img src="/img/greenbar.png" alt="Image" class="w-fit" />
                     <p class="font-28 font-bold">Kami Menyediakan Tempat Kerja yang Nyaman</p>
                     <p class="font-16">
                         Kami menawarkan sewa ruang kerja yang sempurna untuk disewakan, cocok untuk seminar, acara konferensi
@@ -145,7 +145,7 @@
                     <a href="#forms" class="btn-red mt-[16px] w-full xl:w-fit">Pesan Ruangan Sekarang</a>
                 </div>
                 <div>
-                    <img src="/img/foo1.png" alt="" class="w-full" />
+                    <img src="/img/foo1.png" alt="Image" class="w-full" />
                 </div>
             </div>
         </section>
@@ -154,7 +154,7 @@
         <section class="section bg-white">
             <div class="div flex-col gap-[24px] xl:gap-[40px]">
                 <div class="flex flex-col gap-[16px] bg-black px-[16px] py-[24px] xl:flex-row xl:items-center xl:justify-start">
-                    <img src="/img/redbar.png" alt="" class="w-fit xl:order-1" />
+                    <img src="/img/redbar.png" alt="Image" class="w-fit xl:order-1" />
                     <p class="font-28 font-bold text-white">Fasilitas di Sekitar</p>
                 </div>
                 <!--  -->
@@ -171,14 +171,14 @@
                     </div>
                     <div class="flex flex-col gap-[16px] xl:grid xl:grid-cols-2">
                         <card class="bg-light-grey flex flex-row items-start gap-[16px] p-[20px]">
-                            <img src="/img/facilities1.png" alt="" class="w-fit" />
+                            <img src="/img/facilities1.png" alt="Image" class="w-fit" />
                             <div>
                                 <p class="font-16 mb-[8px] font-bold">Kereta Api</p>
                                 <p class="font-12 xl:font-14">Stasiun Kereta Api Bandara (400 m)</p>
                             </div>
                         </card>
                         <card class="bg-light-grey flex flex-row items-start gap-[16px] p-[20px]">
-                            <img src="/img/facilities2.png" alt="" class="w-fit" />
+                            <img src="/img/facilities2.png" alt="Image" class="w-fit" />
                             <div>
                                 <p class="font-16 mb-[8px] font-bold">Taksi & Kendaraan Online</p>
                                 <p class="font-12 xl:font-14">
@@ -188,14 +188,14 @@
                             </div>
                         </card>
                         <card class="bg-light-grey flex flex-row items-start gap-[16px] p-[20px]">
-                            <img src="/img/facilities3.png" alt="" class="w-fit" />
+                            <img src="/img/facilities3.png" alt="Image" class="w-fit" />
                             <div>
                                 <p class="font-16 mb-[8px] font-bold">Rumah Sakit</p>
                                 <p class="font-12 xl:font-14">Rumah Sakit Murni Teguh Memoria (290 m)</p>
                             </div>
                         </card>
                         <card class="bg-light-grey flex flex-row items-start gap-[16px] p-[20px]">
-                            <img src="/img/facilities4.png" alt="" class="w-fit" />
+                            <img src="/img/facilities4.png" alt="Image" class="w-fit" />
                             <div>
                                 <p class="font-16 mb-[8px] font-bold">Hotel</p>
                                 <p class="font-12 xl:font-14">
@@ -205,28 +205,28 @@
                             </div>
                         </card>
                         <card class="bg-light-grey flex flex-row items-start gap-[16px] p-[20px]">
-                            <img src="/img/facilities5.png" alt="" class="w-fit" />
+                            <img src="/img/facilities5.png" alt="Image" class="w-fit" />
                             <div>
                                 <p class="font-16 mb-[8px] font-bold">Gym</p>
                                 <p class="font-12 xl:font-14">Vista Gym (76 m)</p>
                             </div>
                         </card>
                         <card class="bg-light-grey flex flex-row items-start gap-[16px] p-[20px]">
-                            <img src="/img/facilities6.png" alt="" class="w-fit" />
+                            <img src="/img/facilities6.png" alt="Image" class="w-fit" />
                             <div>
                                 <p class="font-16 mb-[8px] font-bold">Mall</p>
                                 <p class="font-12 xl:font-14">Center Point (230 m)</p>
                             </div>
                         </card>
                         <card class="bg-light-grey flex flex-row items-start gap-[16px] p-[20px]">
-                            <img src="/img/facilities7.png" alt="" class="w-fit" />
+                            <img src="/img/facilities7.png" alt="Image" class="w-fit" />
                             <div>
                                 <p class="font-16 mb-[8px] font-bold">Restoran</p>
                                 <p class="font-12 xl:font-14">Nasi Padang Istana Krakatau (220 m)</p>
                             </div>
                         </card>
                         <card class="bg-light-grey flex flex-row items-start gap-[16px] p-[20px]">
-                            <img src="/img/facilities8.png" alt="" class="w-fit" />
+                            <img src="/img/facilities8.png" alt="Image" class="w-fit" />
                             <div>
                                 <p class="font-16 mb-[8px] font-bold">Cafe</p>
                                 <p class="font-12 xl:font-14">
@@ -237,7 +237,7 @@
                             </div>
                         </card>
                         <card class="bg-light-grey flex flex-row items-start gap-[16px] p-[20px]">
-                            <img src="/img/facilities9.png" alt="" class="w-fit" />
+                            <img src="/img/facilities9.png" alt="Image" class="w-fit" />
                             <div>
                                 <p class="font-16 mb-[8px] font-bold">Bar</p>
                                 <p class="font-12 xl:font-14">
@@ -256,8 +256,8 @@
         <section class="section">
             <div class="div flex-col gap-[24px] text-center xl:text-left">
                 <p class="font-28 font-bold">Galeri <span class="text-red">Kami</span></p>
-                <img src="/img/gallery2.png" alt="" class="xl:hidden" />
-                <img src="/img/gallery1.png" alt="" class="hidden xl:block" />
+                <img src="/img/gallery2.png" alt="Image" class="xl:hidden" />
+                <img src="/img/gallery1.png" alt="Image" class="hidden xl:block" />
             </div>
         </section>
 
@@ -271,8 +271,8 @@
                 <div class="flex flex-col gap-[24px] xl:grid xl:grid-cols-2">
                     <card class="bg-light-grey flex flex-col gap-[16px] p-[16px]">
                         <div class="flex items-center justify-between">
-                            <img src="/img/avatar1.png" alt="" class="w-[80px] rounded-full" />
-                            <img src="/img/semicolon.png" alt="" class="w-[32px]" />
+                            <img src="/img/avatar1.png" alt="Image" class="w-[80px] rounded-full" />
+                            <img src="/img/semicolon.png" alt="Image" class="w-[32px]" />
                         </div>
                         <div>
                             <p class="font-16 font-bold xl:mb-[8px] xl:text-[28px]">Ben Johnson</p>
@@ -285,8 +285,8 @@
                     </card>
                     <card class="bg-light-grey flex flex-col gap-[16px] p-[16px]">
                         <div class="flex items-center justify-between">
-                            <img src="/img/avatar2.png" alt="" class="w-[80px] rounded-full" />
-                            <img src="/img/semicolon.png" alt="" class="w-[32px]" />
+                            <img src="/img/avatar2.png" alt="Image" class="w-[80px] rounded-full" />
+                            <img src="/img/semicolon.png" alt="Image" class="w-[32px]" />
                         </div>
                         <div>
                             <p class="font-16 font-bold xl:mb-[8px] xl:text-[28px]">Benny Batara</p>
@@ -305,7 +305,7 @@
         <section class="section bg-light-grey">
             <div class="div flex-col gap-[34px]">
                 <div>
-                    <img src="/img/redbar.png" alt="" class="mb-[34px]" />
+                    <img src="/img/redbar.png" alt="Image" class="mb-[34px]" />
                     <p class="font-28 font-bold">Apa yang ingin Anda ketahui?</p>
                 </div>
                 <div class="flex flex-col gap-[24px]">

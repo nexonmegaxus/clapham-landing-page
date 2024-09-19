@@ -1,6 +1,6 @@
 // https://nuxt.com/docs/api/configuration/nuxt-config
 export default defineNuxtConfig({
-    modules: ['@zadigetvoltaire/nuxt-gtm', '@nuxt/ui', '@vueuse/nuxt', '@vueuse/motion/nuxt'],
+    modules: ['@zadigetvoltaire/nuxt-gtm', '@nuxt/ui', '@vueuse/nuxt', '@vueuse/motion/nuxt', '@nuxtjs/seo'],
     devtools: { enabled: true },
 
     // GTM

@@ -1,0 +1,182 @@
+<template>
+    <main>
+        <!-- Description -->
+        <section class="section pb-[32px] xl:pt-[200px]">
+            <div class="div flex-col gap-[16px]">
+                <h1 class="font-36 font-bold">Clapham Blog</h1>
+                <p class="font-16">
+                    We build a culture where client are welcomed to engage proactively in discussion to express their ideas,
+                    preferences, and feedbacks.
+                </p>
+            </div>
+        </section>
+
+        <!-- Content -->
+        <section class="section pt-[32px]">
+            <div class="div flex-col xl:grid xl:grid-cols-3 xl:gap-[32px]">
+                <!-- Left Column -->
+                <div class="grid xl:col-span-2">
+                    <!-- Artikel Unggulan -->
+                    <p class="font-20 mb-[24px] font-bold">Artikel Unggulan</p>
+                    <div class="grid gap-[24px]">
+                        <NuxtLink
+                            v-for="a in featured"
+                            :key="a.id"
+                            :to="`/blog/${a.slug}`"
+                            class="flex flex-col overflow-hidden rounded-2xl border-2 border-[#ddd] bg-white transition hover:scale-105"
+                        >
+                            <img :src="a.yoast_head_json.og_image[0].url" class="object-cover xl:h-[240px]" alt="Image" />
+                            <div class="flex flex-col gap-[8px] p-[16px]">
+                                <!-- v-if category badges -->
+                                <p
+                                    v-if="a.categories[0] == 30"
+                                    class="font-12 w-fit rounded-full bg-[#E0F2FF] px-2 py-1 font-semibold text-c-blue"
+                                >
+                                    Business Tips
+                                </p>
+                                <p
+                                    v-if="a.categories[0] == 22"
+                                    class="font-12 w-fit rounded-full bg-[#E0F2FF] px-2 py-1 font-semibold text-c-blue"
+                                >
+                                    Lifestyle
+                                </p>
+                                <p
+                                    v-if="a.categories[0] == 24"
+                                    class="font-12 w-fit rounded-full bg-[#E0F2FF] px-2 py-1 font-semibold text-c-blue"
+                                >
+                                    Office Space
+                                </p>
+                                <!-- v-if category badges -->
+                                <h2 class="font-20 font-bold">{{ a.title.rendered }}</h2>
+                                <p class="font-14">{{ a.yoast_head_json.description }}</p>
+                                <div class="flex items-center gap-[8px]">
+                                    <p class="font-12">{{ a.yoast_head_json.author }}</p>
+                                    <p>•</p>
+                                    <p class="font-12">{{ a.date }}</p>
+                                </div>
+                            </div>
+                        </NuxtLink>
+                    </div>
+                    <!-- Artikel Terbaru -->
+                    <p class="font-20 mb-[24px] mt-[32px] font-bold">Artikel Terbaru</p>
+                    <div class="grid gap-[24px] xl:grid-cols-2">
+                        <NuxtLink
+                            v-for="a in articles"
+                            :key="a.id"
+                            :to="`/blog/${a.slug}`"
+                            class="flex flex-col overflow-hidden rounded-2xl border-2 border-[#ddd] bg-white transition hover:scale-105"
+                        >
+                            <img :src="a.yoast_head_json.og_image[0].url" class="object-cover xl:h-[240px]" alt="Image" />
+                            <div class="flex flex-col gap-[8px] p-[16px]">
+                                <!-- v-if category badges -->
+                                <p
+                                    v-if="a.categories[0] == 30"
+                                    class="font-12 w-fit rounded-full bg-[#E0F2FF] px-2 py-1 font-semibold text-c-blue"
+                                >
+                                    Business Tips
+                                </p>
+                                <p
+                                    v-if="a.categories[0] == 22"
+                                    class="font-12 w-fit rounded-full bg-[#E0F2FF] px-2 py-1 font-semibold text-c-blue"
+                                >
+                                    Lifestyle
+                                </p>
+                                <p
+                                    v-if="a.categories[0] == 24"
+                                    class="font-12 w-fit rounded-full bg-[#E0F2FF] px-2 py-1 font-semibold text-c-blue"
+                                >
+                                    Office Space
+                                </p>
+                                <!-- v-if category badges -->
+                                <h2 class="font-20 font-bold">{{ a.title.rendered }}</h2>
+                                <p class="font-14">{{ a.yoast_head_json.description }}</p>
+                                <div class="flex items-center gap-[8px]">
+                                    <p class="font-12">{{ a.yoast_head_json.author }}</p>
+                                    <p>•</p>
+                                    <p class="font-12">{{ a.date }}</p>
+                                </div>
+                            </div>
+                        </NuxtLink>
+                    </div>
+                </div>
+                <!-- Right Column -->
+                <div>
+                    <!-- Artikel Populer -->
+                    <p class="font-20 mb-[24px] mt-[32px] font-bold xl:mt-0">Artikel Populer</p>
+                    <div class="grid gap-[16px]">
+                        <NuxtLink
+                            v-for="a in popular"
+                            :key="a.id"
+                            :to="`/blog/${a.slug}`"
+                            class="flex flex-col overflow-hidden rounded-2xl border-2 border-[#ddd] bg-white transition hover:scale-105"
+                        >
+                            <div class="flex flex-col gap-[8px] p-[16px]">
+                                <!-- v-if category badges -->
+                                <p
+                                    v-if="a.categories[0] == 30"
+                                    class="font-12 w-fit rounded-full bg-[#E0F2FF] px-2 py-1 font-semibold text-c-blue"
+                                >
+                                    Business Tips
+                                </p>
+                                <p
+                                    v-if="a.categories[0] == 22"
+                                    class="font-12 w-fit rounded-full bg-[#E0F2FF] px-2 py-1 font-semibold text-c-blue"
+                                >
+                                    Lifestyle
+                                </p>
+                                <p
+                                    v-if="a.categories[0] == 24"
+                                    class="font-12 w-fit rounded-full bg-[#E0F2FF] px-2 py-1 font-semibold text-c-blue"
+                                >
+                                    Office Space
+                                </p>
+                                <!-- v-if category badges -->
+                                <h2 class="font-16 font-bold">{{ a.title.rendered }}</h2>
+                            </div>
+                        </NuxtLink>
+                    </div>
+                    <!-- Kategori -->
+                    <p class="font-20 mb-[24px] mt-[32px] font-bold">Kategori</p>
+                    <div class="grid gap-[16px]">
+                        <NuxtLink
+                            to="/category/business-tips"
+                            class="flex flex-col overflow-hidden rounded-2xl border-2 border-[#ddd] bg-white p-[16px] transition hover:scale-105"
+                        >
+                            <h2 class="font-16 font-bold">Business Tips</h2>
+                        </NuxtLink>
+                        <NuxtLink
+                            to="/category/lifestyle"
+                            class="flex flex-col overflow-hidden rounded-2xl border-2 border-[#ddd] bg-white p-[16px] transition hover:scale-105"
+                        >
+                            <h2 class="font-16 font-bold">Lifestyle</h2>
+                        </NuxtLink>
+                        <NuxtLink
+                            to="/category/office-space"
+                            class="flex flex-col overflow-hidden rounded-2xl border-2 border-[#ddd] bg-white p-[16px] transition hover:scale-105"
+                        >
+                            <h2 class="font-16 font-bold">Office Space</h2>
+                        </NuxtLink>
+                    </div>
+                </div>
+            </div>
+        </section>
+    </main>
+</template>
+
+<script setup>
+// fetch archive articles
+const { data: articles } = await useFetch(
+    'https://cms.workfrom.id/wp-json/wp/v2/posts?_fields=id,slug,yoast_head_json.og_image,yoast_head_json.description,yoast_head_json.author,title,description,date,categories&per_page=10'
+);
+const { data: featured } = await useFetch(
+    'https://cms.workfrom.id/wp-json/wp/v2/posts?_fields=id,slug,yoast_head_json.og_image,yoast_head_json.description,yoast_head_json.author,title,description,date,categories&per_page=1'
+);
+const { data: popular } = await useFetch(
+    'https://cms.workfrom.id/wp-json/wp/v2/posts?_fields=id,slug,yoast_head_json.og_image,yoast_head_json.description,yoast_head_json.author,title,description,date,categories&per_page=5'
+);
+// seo meta
+useSeoMeta({
+    title: 'Blog',
+    description: `Unlock the secrets to creating productive and inspiring environments with our expert articles on building design, coworking spaces, and productivity hacks. Whether you're an entrepreneur, freelancer, or business owner, our blog offers valuable insights to help you maximize efficiency and foster collaboration.`,
+});
+</script>

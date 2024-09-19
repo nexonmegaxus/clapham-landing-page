@@ -2,7 +2,7 @@
     <section class="section bg-c-light-grey">
         <div class="div flex-col gap-[34px]">
             <div>
-                <img src="/img/redbar.png" alt="" class="mb-[34px]" />
+                <img src="/img/redbar.png" alt="Image" class="mb-[34px]" />
                 <p class="font-28 font-bold">Apa yang ingin Anda ketahui?</p>
             </div>
             <UAccordion

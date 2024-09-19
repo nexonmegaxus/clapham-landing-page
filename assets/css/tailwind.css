@@ -6,47 +6,51 @@
 
 @layer components {
     .section {
-        @apply w-full py-[30px] xl:py-[60px];
+        @apply w-full py-[40px] xl:py-[80px];
     }
 
     .div {
-        @apply mx-auto flex w-full px-[16px] sm:max-xl:max-w-[640px] xl:max-w-[1440px] xl:px-[80px];
+        @apply mx-auto flex w-full px-[16px] sm:max-xl:max-w-[640px] xl:max-w-[1440px] xl:px-[120px];
     }
 
     .btn-blue {
-        @apply bg-c-blue text-c-white flex w-fit items-center justify-center px-[16px] py-[12px] font-quicksand font-semibold transition hover:scale-105 hover:bg-blue-900;
+        @apply flex w-fit items-center justify-center bg-c-blue px-[16px] py-[12px] font-quicksand font-semibold text-c-white transition hover:scale-105 hover:bg-blue-900;
     }
 
     .btn-green {
-        @apply bg-c-green text-c-white flex w-fit items-center justify-center gap-[8px] px-[16px] py-[12px] font-quicksand font-semibold transition hover:scale-105 hover:bg-green-900;
+        @apply flex w-fit items-center justify-center gap-[8px] bg-c-green px-[16px] py-[12px] font-quicksand font-semibold text-c-white transition hover:scale-105 hover:bg-green-900;
     }
 
     .btn-red {
-        @apply bg-c-red text-c-white flex w-fit items-center justify-center px-[16px] py-[12px] font-quicksand font-semibold transition hover:scale-105 hover:bg-red-900;
+        @apply flex w-fit items-center justify-center bg-c-red px-[16px] py-[12px] font-quicksand font-semibold text-c-white transition hover:scale-105 hover:bg-red-900;
     }
 
     .font-12 {
-        @apply text-c-black font-quicksand text-[12px];
+        @apply font-quicksand text-[12px] text-c-black;
     }
 
     .font-14 {
-        @apply text-c-black font-quicksand text-[14px];
+        @apply font-quicksand text-[14px] text-c-black;
     }
 
     .font-16 {
-        @apply text-c-black font-quicksand text-[16px] xl:text-[20px];
+        @apply font-quicksand text-[16px] text-c-black xl:text-[20px];
     }
 
     .font-20 {
-        @apply text-c-black font-quicksand text-[20px] xl:text-[24px];
+        @apply font-quicksand text-[20px] text-c-black xl:text-[24px];
     }
 
     .font-28 {
-        @apply text-c-black font-quicksand text-[28px] leading-tight xl:text-[48px];
+        @apply font-quicksand text-[28px] leading-tight text-c-black xl:text-[48px];
+    }
+
+    .font-32 {
+        @apply font-quicksand text-[32px] leading-tight text-c-black xl:text-[48px];
     }
 
     .font-36 {
-        @apply text-c-black font-quicksand text-[36px] leading-tight xl:text-[56px];
+        @apply font-quicksand text-[36px] leading-tight text-c-black xl:text-[56px];
     }
 }
 

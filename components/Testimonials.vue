@@ -14,8 +14,8 @@
             >
                 <div class="m-[8px] flex w-full flex-col gap-[16px] bg-c-light-grey p-[16px]">
                     <div class="flex items-center justify-between">
-                        <img :src="item.avatar" alt="" class="w-[80px] rounded-full" />
-                        <img src="/img/semicolon.png" alt="" class="w-[32px]" />
+                        <img :src="item.avatar" alt="Image" class="w-[80px] rounded-full" />
+                        <img src="/img/semicolon.png" alt="Image" class="w-[32px]" />
                     </div>
                     <div>
                         <p class="font-16 font-bold xl:mb-[8px] xl:text-[28px]">{{ item.name }}</p>
