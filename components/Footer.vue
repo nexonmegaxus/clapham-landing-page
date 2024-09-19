@@ -39,14 +39,16 @@
             </div>
             <div class="flex flex-col gap-[16px] xl:flex-row xl:items-center xl:justify-between">
                 <div class="flex gap-[16px] xl:order-1 xl:gap-[40px]">
-                    <a href="https://www.youtube.com/@clapham1604"><img src="/img/footer1.png" target="_blank" /></a>
+                    <a href="https://www.youtube.com/@clapham1604"><img src="/img/footer1.png" alt="Image" target="_blank" /></a>
                     <a href="https://web.facebook.com/claphamco/?locale=id_ID&_rdc=1&_rdr"
-                        ><img src="/img/footer2.png" target="_blank"
+                        ><img src="/img/footer2.png" alt="Image" target="_blank"
                     /></a>
-                    <a href="https://www.instagram.com/claphamco/?hl=en"><img src="/img/footer3.png" target="_blank" /></a>
-                    <a href="https://twitter.com/thisisclapham"><img src="/img/footer4.png" target="_blank" /></a>
+                    <a href="https://www.instagram.com/claphamco/?hl=en"
+                        ><img src="/img/footer3.png" alt="Image" target="_blank"
+                    /></a>
+                    <a href="https://twitter.com/thisisclapham"><img src="/img/footer4.png" alt="Image" target="_blank" /></a>
                     <a href="https://www.linkedin.com/company/clapham-collective/?originalSubdomain=id"
-                        ><img src="/img/footer5.png" target="_blank"
+                        ><img src="/img/footer5.png" alt="Image" target="_blank"
                     /></a>
                 </div>
                 <p class="font-14 text-[14px] text-white">Clapham @2024. All rights reserved.</p>

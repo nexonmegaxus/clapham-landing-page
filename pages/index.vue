@@ -82,7 +82,7 @@
                     class="mx-auto flex max-w-[420px] flex-col gap-[24px] xl:mt-[32px] xl:grid xl:max-w-full xl:grid-cols-2 xl:gap-[40px]"
                 >
                     <div class="flex flex-col xl:flex-row">
-                        <img src="/img/layanan-kami-1.png" class="w-full xl:w-[260px] xl:object-cover" />
+                        <img src="/img/layanan-kami-1.png" alt="Image" class="w-full xl:w-[260px] xl:object-cover" />
                         <div class="flex flex-col gap-[8px] bg-[#F6F7F8] p-[16px] xl:p-[24px]">
                             <p class="font-20 font-bold">Private Office</p>
                             <p class="font-14">Ruang kantor ekslusif dan privat untuk tim dengan berbagai ukuran.</p>
@@ -101,7 +101,7 @@
                         </div>
                     </div>
                     <div class="flex flex-col xl:flex-row">
-                        <img src="/img/layanan-kami-2.png" class="w-full xl:w-[260px] xl:object-cover" />
+                        <img src="/img/layanan-kami-2.png" alt="Image" class="w-full xl:w-[260px] xl:object-cover" />
                         <div class="flex flex-col gap-[8px] bg-[#F6F7F8] p-[16px] xl:p-[24px]">
                             <p class="font-20 font-bold">Event Space</p>
                             <p class="font-14">
@@ -122,7 +122,7 @@
                         </div>
                     </div>
                     <div class="flex flex-col xl:flex-row">
-                        <img src="/img/layanan-kami-3.png" class="w-full xl:w-[260px] xl:object-cover" />
+                        <img src="/img/layanan-kami-3.png" alt="Image" class="w-full xl:w-[260px] xl:object-cover" />
                         <div class="flex flex-col gap-[8px] bg-[#F6F7F8] p-[16px] xl:p-[24px]">
                             <p class="font-20 font-bold">Daily Pass</p>
                             <p class="font-14">Untuk menunjang produktivitas seharian penuh di berbagai lokasi.</p>
@@ -141,7 +141,7 @@
                         </div>
                     </div>
                     <div class="flex flex-col xl:flex-row">
-                        <img src="/img/layanan-kami-4.png" class="w-full xl:w-[260px] xl:object-cover" />
+                        <img src="/img/layanan-kami-4.png" alt="Image" class="w-full xl:w-[260px] xl:object-cover" />
                         <div class="flex flex-col gap-[8px] bg-[#F6F7F8] p-[16px] xl:p-[24px]">
                             <p class="font-20 font-bold">Meeting Room</p>
                             <p class="font-14">
@@ -162,7 +162,7 @@
                         </div>
                     </div>
                     <div class="flex flex-col xl:flex-row">
-                        <img src="/img/layanan-kami-5.png" class="w-full xl:w-[260px] xl:object-cover" />
+                        <img src="/img/layanan-kami-5.png" alt="Image" class="w-full xl:w-[260px] xl:object-cover" />
                         <div class="flex flex-col gap-[8px] bg-[#F6F7F8] p-[16px] xl:p-[24px]">
                             <p class="font-20 font-bold">Flexible Desk</p>
                             <p class="font-14">Cukup bawa laptop Anda, pilih kursi, dan mulai bekerja.</p>
@@ -181,7 +181,7 @@
                         </div>
                     </div>
                     <div class="flex flex-col xl:flex-row">
-                        <img src="/img/layanan-kami-6.png" class="w-full xl:w-[260px] xl:object-cover" />
+                        <img src="/img/layanan-kami-6.png" alt="Image" class="w-full xl:w-[260px] xl:object-cover" />
                         <div class="flex flex-col gap-[8px] bg-[#F6F7F8] p-[16px] xl:p-[24px]">
                             <p class="font-20 font-bold">Dedicated Desk</p>
                             <p class="font-14">
