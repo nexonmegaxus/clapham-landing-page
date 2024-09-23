@@ -19,4 +19,8 @@ export default defineNuxtConfig({
     colorMode: {
         preference: 'light',
     },
+    site: {
+        url: 'https://clapham.workfrom.id/',
+        defaultLocale: 'id',
+    },
 });

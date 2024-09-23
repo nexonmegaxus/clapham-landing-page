@@ -1,9 +1,9 @@
 <template>
-    <section class="section bg-c-light-grey">
+    <section class="section bg-c-light-grey dark:bg-black">
         <div class="div flex-col gap-[34px]">
             <div>
-                <img src="/img/redbar.png" alt="Image" class="mb-[34px]" />
-                <p class="font-28 font-bold">Apa yang ingin Anda ketahui?</p>
+                <img src="/img/redbar.webp" alt="Image" class="mb-[34px]" />
+                <p class="font-28 font-bold dark:text-c-white">Apa yang ingin Anda ketahui?</p>
             </div>
             <UAccordion
                 color="black"
@@ -11,7 +11,7 @@
                 :items="items"
                 :ui="{
                     wrapper: 'gap-[16px]',
-                    container: 'shadow-lg rounded-xl bg-c-white px-3 py-4',
+                    container: 'shadow-lg rounded-xl bg-c-white px-3 py-4 dark:bg-c-black',
                     item: {
                         padding: 'px-2',
                     },

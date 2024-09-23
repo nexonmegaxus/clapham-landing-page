@@ -87,7 +87,7 @@
 <script setup>
 // fetch archive articles
 const { data: articles } = await useFetch(
-    'https://cms.workfrom.id/wp-json/wp/v2/posts?_fields=id,slug,yoast_head_json.og_image,yoast_head_json.description,yoast_head_json.author,title,description,date,categories&per_page=10&categories=24'
+    'https://cms-clapham.workfrom.id/wp-json/wp/v2/posts?_fields=id,slug,yoast_head_json.og_image,yoast_head_json.description,yoast_head_json.author,title,description,date,categories&per_page=10&categories=24'
 );
 // seo meta
 useSeoMeta({

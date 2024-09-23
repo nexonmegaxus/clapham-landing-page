@@ -4,7 +4,7 @@
         <section class="section bg-c-black pt-[80px] xl:py-0 xl:pb-0">
             <div class="div xl:grid xl:grid-cols-2 xl:gap-[60px] xl:pr-0">
                 <div class="flex flex-col gap-[32px] xl:pt-[120px]">
-                    <img src="/img/hero2.png" alt="Image" />
+                    <img src="/img/hero2.webp" alt="Image" />
                     <div>
                         <p class="font-20 mb-[8px] font-semibold text-c-teal">Clapham Collective</p>
                         <h1 class="font-36 font-bold text-c-white">Solusi Sewa Ruang Kantor dan Acara di Medan.</h1>
@@ -14,7 +14,7 @@
                             href="https://api.whatsapp.com/send/?phone=6282127832456&text&type=phone_number&app_absent=0"
                             class="btn-green mt-[16px]"
                         >
-                            <img src="/img/wa-white.png" alt="Image" />
+                            <img src="/img/wa-white.webp" alt="Image" />
                             WhatsApp Kami</a
                         >
                     </div>
@@ -34,7 +34,7 @@
                     </div>
                 </div>
                 <div class="hidden xl:flex">
-                    <img src="/img/hero1.png" alt="Image" />
+                    <img src="/img/hero1.webp" alt="Image" />
                 </div>
             </div>
         </section>
@@ -45,26 +45,26 @@
                 class="div flex animate-loop-scroll items-center justify-center gap-[64px] overflow-hidden text-center opacity-50 grayscale"
                 aria-hidden="true"
             >
-                <img src="/img/logo1.png" alt="Image" />
-                <img src="/img/logo2.png" alt="Image" />
-                <img src="/img/logo3.png" alt="Image" />
-                <img src="/img/logo4.png" alt="Image" />
-                <img src="/img/logo5.png" alt="Image" />
-                <img src="/img/logo1.png" alt="Image" />
-                <img src="/img/logo2.png" alt="Image" />
-                <img src="/img/logo3.png" alt="Image" />
-                <img src="/img/logo4.png" alt="Image" />
-                <img src="/img/logo5.png" alt="Image" />
-                <img src="/img/logo1.png" alt="Image" />
-                <img src="/img/logo2.png" alt="Image" />
-                <img src="/img/logo3.png" alt="Image" />
-                <img src="/img/logo4.png" alt="Image" />
-                <img src="/img/logo5.png" alt="Image" />
-                <img src="/img/logo1.png" alt="Image" />
-                <img src="/img/logo2.png" alt="Image" />
-                <img src="/img/logo3.png" alt="Image" />
-                <img src="/img/logo4.png" alt="Image" />
-                <img src="/img/logo5.png" alt="Image" />
+                <img src="/img/logo1.webp" alt="Image" />
+                <img src="/img/logo2.webp" alt="Image" />
+                <img src="/img/logo3.webp" alt="Image" />
+                <img src="/img/logo4.webp" alt="Image" />
+                <img src="/img/logo5.webp" alt="Image" />
+                <img src="/img/logo1.webp" alt="Image" />
+                <img src="/img/logo2.webp" alt="Image" />
+                <img src="/img/logo3.webp" alt="Image" />
+                <img src="/img/logo4.webp" alt="Image" />
+                <img src="/img/logo5.webp" alt="Image" />
+                <img src="/img/logo1.webp" alt="Image" />
+                <img src="/img/logo2.webp" alt="Image" />
+                <img src="/img/logo3.webp" alt="Image" />
+                <img src="/img/logo4.webp" alt="Image" />
+                <img src="/img/logo5.webp" alt="Image" />
+                <img src="/img/logo1.webp" alt="Image" />
+                <img src="/img/logo2.webp" alt="Image" />
+                <img src="/img/logo3.webp" alt="Image" />
+                <img src="/img/logo4.webp" alt="Image" />
+                <img src="/img/logo5.webp" alt="Image" />
             </div>
         </section>
 
@@ -82,7 +82,7 @@
                     class="mx-auto flex max-w-[420px] flex-col gap-[24px] xl:mt-[32px] xl:grid xl:max-w-full xl:grid-cols-2 xl:gap-[40px]"
                 >
                     <div class="flex flex-col xl:flex-row">
-                        <img src="/img/layanan-kami-1.png" alt="Image" class="w-full xl:w-[260px] xl:object-cover" />
+                        <img src="/img/layanan-kami-1.webp" alt="Image" class="w-full xl:w-[260px] xl:object-cover" />
                         <div class="flex flex-col gap-[8px] bg-[#F6F7F8] p-[16px] xl:p-[24px]">
                             <p class="font-20 font-bold">Private Office</p>
                             <p class="font-14">Ruang kantor ekslusif dan privat untuk tim dengan berbagai ukuran.</p>
@@ -95,13 +95,13 @@
                                 href="https://api.whatsapp.com/send/?phone=6282127832456&text&type=phone_number&app_absent=0"
                                 class="btn-green mt-[16px] w-full"
                             >
-                                <img src="/img/wa-white.png" alt="Image" />
+                                <img src="/img/wa-white.webp" alt="Image" />
                                 WhatsApp Kami</a
                             >
                         </div>
                     </div>
                     <div class="flex flex-col xl:flex-row">
-                        <img src="/img/layanan-kami-2.png" alt="Image" class="w-full xl:w-[260px] xl:object-cover" />
+                        <img src="/img/layanan-kami-2.webp" alt="Image" class="w-full xl:w-[260px] xl:object-cover" />
                         <div class="flex flex-col gap-[8px] bg-[#F6F7F8] p-[16px] xl:p-[24px]">
                             <p class="font-20 font-bold">Event Space</p>
                             <p class="font-14">
@@ -116,13 +116,13 @@
                                 href="https://api.whatsapp.com/send/?phone=6282127832456&text&type=phone_number&app_absent=0"
                                 class="btn-green mt-[16px] w-full"
                             >
-                                <img src="/img/wa-white.png" alt="Image" />
+                                <img src="/img/wa-white.webp" alt="Image" />
                                 WhatsApp Kami</a
                             >
                         </div>
                     </div>
                     <div class="flex flex-col xl:flex-row">
-                        <img src="/img/layanan-kami-3.png" alt="Image" class="w-full xl:w-[260px] xl:object-cover" />
+                        <img src="/img/layanan-kami-3.webp" alt="Image" class="w-full xl:w-[260px] xl:object-cover" />
                         <div class="flex flex-col gap-[8px] bg-[#F6F7F8] p-[16px] xl:p-[24px]">
                             <p class="font-20 font-bold">Daily Pass</p>
                             <p class="font-14">Untuk menunjang produktivitas seharian penuh di berbagai lokasi.</p>
@@ -135,13 +135,13 @@
                                 href="https://api.whatsapp.com/send/?phone=6282127832456&text&type=phone_number&app_absent=0"
                                 class="btn-green mt-[16px] w-full"
                             >
-                                <img src="/img/wa-white.png" alt="Image" />
+                                <img src="/img/wa-white.webp" alt="Image" />
                                 WhatsApp Kami</a
                             >
                         </div>
                     </div>
                     <div class="flex flex-col xl:flex-row">
-                        <img src="/img/layanan-kami-4.png" alt="Image" class="w-full xl:w-[260px] xl:object-cover" />
+                        <img src="/img/layanan-kami-4.webp" alt="Image" class="w-full xl:w-[260px] xl:object-cover" />
                         <div class="flex flex-col gap-[8px] bg-[#F6F7F8] p-[16px] xl:p-[24px]">
                             <p class="font-20 font-bold">Meeting Room</p>
                             <p class="font-14">
@@ -156,13 +156,13 @@
                                 href="https://api.whatsapp.com/send/?phone=6282127832456&text&type=phone_number&app_absent=0"
                                 class="btn-green mt-[16px] w-full"
                             >
-                                <img src="/img/wa-white.png" alt="Image" />
+                                <img src="/img/wa-white.webp" alt="Image" />
                                 WhatsApp Kami</a
                             >
                         </div>
                     </div>
                     <div class="flex flex-col xl:flex-row">
-                        <img src="/img/layanan-kami-5.png" alt="Image" class="w-full xl:w-[260px] xl:object-cover" />
+                        <img src="/img/layanan-kami-5.webp" alt="Image" class="w-full xl:w-[260px] xl:object-cover" />
                         <div class="flex flex-col gap-[8px] bg-[#F6F7F8] p-[16px] xl:p-[24px]">
                             <p class="font-20 font-bold">Flexible Desk</p>
                             <p class="font-14">Cukup bawa laptop Anda, pilih kursi, dan mulai bekerja.</p>
@@ -175,13 +175,13 @@
                                 href="https://api.whatsapp.com/send/?phone=6282127832456&text&type=phone_number&app_absent=0"
                                 class="btn-green mt-[16px] w-full"
                             >
-                                <img src="/img/wa-white.png" alt="Image" />
+                                <img src="/img/wa-white.webp" alt="Image" />
                                 WhatsApp Kami</a
                             >
                         </div>
                     </div>
                     <div class="flex flex-col xl:flex-row">
-                        <img src="/img/layanan-kami-6.png" alt="Image" class="w-full xl:w-[260px] xl:object-cover" />
+                        <img src="/img/layanan-kami-6.webp" alt="Image" class="w-full xl:w-[260px] xl:object-cover" />
                         <div class="flex flex-col gap-[8px] bg-[#F6F7F8] p-[16px] xl:p-[24px]">
                             <p class="font-20 font-bold">Dedicated Desk</p>
                             <p class="font-14">
@@ -196,7 +196,7 @@
                                 href="https://api.whatsapp.com/send/?phone=6282127832456&text&type=phone_number&app_absent=0"
                                 class="btn-green mt-[16px] w-full"
                             >
-                                <img src="/img/wa-white.png" alt="Image" />
+                                <img src="/img/wa-white.webp" alt="Image" />
                                 WhatsApp Kami</a
                             >
                         </div>
@@ -209,40 +209,40 @@
         <section class="section bg-c-white">
             <div class="div flex-col gap-[24px] xl:gap-[40px]">
                 <div class="flex flex-col gap-[16px] bg-black px-[16px] py-[24px] xl:flex-row xl:items-center xl:justify-end">
-                    <img src="/img/redbar.png" alt="Image" class="w-fit" />
+                    <img src="/img/redbar.webp" alt="Image" class="w-fit" />
                     <h2 class="font-28 font-bold text-white">Fasilitas dan Kelengkapan</h2>
                 </div>
                 <div class="grid grid-cols-2 gap-[20px] xl:grid-cols-4 xl:gap-[40px]">
                     <div class="flex flex-col gap-[16px] bg-c-light-grey p-[20px]">
-                        <img src="/img/amenities1.png" alt="Image" class="w-fit" />
+                        <img src="/img/amenities1.webp" alt="Image" class="w-fit" />
                         <p class="font-16 font-bold">Wi-fi Berkecepatan Tinggi</p>
                     </div>
                     <div class="flex flex-col gap-[16px] bg-c-light-grey p-[20px]">
-                        <img src="/img/amenities2.png" alt="Image" class="w-fit" />
+                        <img src="/img/amenities2.webp" alt="Image" class="w-fit" />
                         <p class="font-16 font-bold">Minuman Gratis</p>
                     </div>
                     <div class="flex flex-col gap-[16px] bg-c-light-grey p-[20px]">
-                        <img src="/img/amenities3.png" alt="Image" class="w-fit" />
+                        <img src="/img/amenities3.webp" alt="Image" class="w-fit" />
                         <p class="font-16 font-bold">Projektor HD</p>
                     </div>
                     <div class="flex flex-col gap-[16px] bg-c-light-grey p-[20px]">
-                        <img src="/img/amenities4.png" alt="Image" class="w-fit" />
+                        <img src="/img/amenities4.webp" alt="Image" class="w-fit" />
                         <p class="font-16 font-bold">Layanan Printing</p>
                     </div>
                     <div class="flex flex-col gap-[16px] bg-c-light-grey p-[20px]">
-                        <img src="/img/amenities5.png" alt="Image" class="w-fit" />
+                        <img src="/img/amenities5.webp" alt="Image" class="w-fit" />
                         <p class="font-16 font-bold">Layanan Resepsionis</p>
                     </div>
                     <div class="flex flex-col gap-[16px] bg-c-light-grey p-[20px]">
-                        <img src="/img/amenities6.png" alt="Image" class="w-fit" />
+                        <img src="/img/amenities6.webp" alt="Image" class="w-fit" />
                         <p class="font-16 font-bold">Pantry</p>
                     </div>
                     <div class="flex flex-col gap-[16px] bg-c-light-grey p-[20px]">
-                        <img src="/img/amenities7.png" alt="Image" class="w-fit" />
+                        <img src="/img/amenities7.webp" alt="Image" class="w-fit" />
                         <p class="font-16 font-bold">Penanganan Surat & Paket</p>
                     </div>
                     <div class="flex flex-col gap-[16px] bg-c-light-grey p-[20px]">
-                        <img src="/img/amenities8.png" alt="Image" class="w-fit" />
+                        <img src="/img/amenities8.webp" alt="Image" class="w-fit" />
                         <p class="font-16 font-bold">Akses ke Area Umum</p>
                     </div>
                 </div>
@@ -253,7 +253,7 @@
         <section class="section bg-c-white">
             <div class="div flex-col gap-[24px] xl:gap-[40px]">
                 <div class="flex flex-col gap-[16px] bg-black px-[16px] py-[24px] xl:flex-row xl:items-center xl:justify-start">
-                    <img src="/img/redbar.png" alt="Image" class="w-fit xl:order-1" />
+                    <img src="/img/redbar.webp" alt="Image" class="w-fit xl:order-1" />
                     <h2 class="font-28 font-bold text-white">Fasilitas di Sekitar</h2>
                 </div>
                 <!--  -->
@@ -261,6 +261,7 @@
                     <div>
                         <iframe
                             src="https://www.google.com/maps/embed?pb=!1m14!1m8!1m3!1d31855.820557039493!2d98.681436!3d3.592618!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x303131c784afcce9%3A0x1c0f6a9ddeb16361!2sClapham%20Collective%20-%20Office%20Space%2C%20Meeting%20Room%2C%20Private%20Office%2C%20Coworking%20and%20Event%20Space!5e0!3m2!1sen!2sus!4v1719458383393!5m2!1sen!2sus"
+                            title="Maps"
                             width="100%"
                             height="450"
                             style="border: 0"
@@ -270,14 +271,14 @@
                     </div>
                     <div class="flex flex-col gap-[16px] xl:grid xl:grid-cols-2">
                         <div class="flex flex-row items-start gap-[16px] bg-c-light-grey p-[20px]">
-                            <img src="/img/facilities1.png" alt="Image" class="w-fit" />
+                            <img src="/img/facilities1.webp" alt="Image" class="w-fit" />
                             <div>
                                 <p class="font-16 mb-[8px] font-bold">Kereta Api</p>
                                 <p class="font-12 xl:font-14">Stasiun Kereta Api Bandara (400 m)</p>
                             </div>
                         </div>
                         <div class="flex flex-row items-start gap-[16px] bg-c-light-grey p-[20px]">
-                            <img src="/img/facilities2.png" alt="Image" class="w-fit" />
+                            <img src="/img/facilities2.webp" alt="Image" class="w-fit" />
                             <div>
                                 <p class="font-16 mb-[8px] font-bold">Taksi & Kendaraan Online</p>
                                 <p class="font-12 xl:font-14">
@@ -287,14 +288,14 @@
                             </div>
                         </div>
                         <div class="flex flex-row items-start gap-[16px] bg-c-light-grey p-[20px]">
-                            <img src="/img/facilities3.png" alt="Image" class="w-fit" />
+                            <img src="/img/facilities3.webp" alt="Image" class="w-fit" />
                             <div>
                                 <p class="font-16 mb-[8px] font-bold">Rumah Sakit</p>
                                 <p class="font-12 xl:font-14">Rumah Sakit Murni Teguh Memoria (290 m)</p>
                             </div>
                         </div>
                         <div class="flex flex-row items-start gap-[16px] bg-c-light-grey p-[20px]">
-                            <img src="/img/facilities4.png" alt="Image" class="w-fit" />
+                            <img src="/img/facilities4.webp" alt="Image" class="w-fit" />
                             <div>
                                 <p class="font-16 mb-[8px] font-bold">Hotel</p>
                                 <p class="font-12 xl:font-14">
@@ -304,28 +305,28 @@
                             </div>
                         </div>
                         <div class="flex flex-row items-start gap-[16px] bg-c-light-grey p-[20px]">
-                            <img src="/img/facilities5.png" alt="Image" class="w-fit" />
+                            <img src="/img/facilities5.webp" alt="Image" class="w-fit" />
                             <div>
                                 <p class="font-16 mb-[8px] font-bold">Gym</p>
                                 <p class="font-12 xl:font-14">Vista Gym (76 m)</p>
                             </div>
                         </div>
                         <div class="flex flex-row items-start gap-[16px] bg-c-light-grey p-[20px]">
-                            <img src="/img/facilities6.png" alt="Image" class="w-fit" />
+                            <img src="/img/facilities6.webp" alt="Image" class="w-fit" />
                             <div>
                                 <p class="font-16 mb-[8px] font-bold">Mall</p>
                                 <p class="font-12 xl:font-14">Center Point (230 m)</p>
                             </div>
                         </div>
                         <div class="flex flex-row items-start gap-[16px] bg-c-light-grey p-[20px]">
-                            <img src="/img/facilities7.png" alt="Image" class="w-fit" />
+                            <img src="/img/facilities7.webp" alt="Image" class="w-fit" />
                             <div>
                                 <p class="font-16 mb-[8px] font-bold">Restoran</p>
                                 <p class="font-12 xl:font-14">Nasi Padang Istana Krakatau (220 m)</p>
                             </div>
                         </div>
                         <div class="flex flex-row items-start gap-[16px] bg-c-light-grey p-[20px]">
-                            <img src="/img/facilities8.png" alt="Image" class="w-fit" />
+                            <img src="/img/facilities8.webp" alt="Image" class="w-fit" />
                             <div>
                                 <p class="font-16 mb-[8px] font-bold">Cafe</p>
                                 <p class="font-12 xl:font-14">
@@ -336,7 +337,7 @@
                             </div>
                         </div>
                         <div class="flex flex-row items-start gap-[16px] bg-c-light-grey p-[20px]">
-                            <img src="/img/facilities9.png" alt="Image" class="w-fit" />
+                            <img src="/img/facilities9.webp" alt="Image" class="w-fit" />
                             <div>
                                 <p class="font-16 mb-[8px] font-bold">Bar</p>
                                 <p class="font-12 xl:font-14">
@@ -355,8 +356,8 @@
         <section class="section bg-c-white">
             <div class="div flex-col gap-[24px] text-center xl:text-left">
                 <h2 class="font-28 font-bold">Galeri <span class="text-red">Kami</span></h2>
-                <img src="/img/gallery2.png" alt="Image" class="xl:hidden" />
-                <img src="/img/gallery1.png" alt="Image" class="hidden xl:block" />
+                <img src="/img/gallery2.webp" alt="Image" class="xl:hidden" />
+                <img src="/img/gallery1.webp" alt="Image" class="hidden xl:block" />
             </div>
         </section>
 
@@ -367,10 +368,10 @@
         <section class="section bg-white">
             <div class="div xl:gap- [80px] flex-col gap-[24px] xl:grid xl:grid-cols-2 xl:items-center">
                 <div>
-                    <img src="/img/foo2.png" alt="Image" />
+                    <img src="/img/foo2.webp" alt="Image" />
                 </div>
                 <div class="flex flex-col gap-[16px]">
-                    <img src="/img/greenbar.png" alt="Image" class="w-fit" />
+                    <img src="/img/greenbar.webp" alt="Image" class="w-fit" />
                     <h2 class="font-28 font-bold">Tentang Clapham</h2>
                     <p class="font-16">
                         Berdiri sejak 2015, Clapham Collective Private Office Space and Event Space hadir untuk menjawab kebutuhan
@@ -388,10 +389,10 @@
         <section class="section bg-c-white">
             <div class="div flex-col gap-[24px] xl:grid xl:grid-cols-2 xl:items-center xl:gap-[80px]">
                 <div class="xl:order-1">
-                    <img src="/img/foo1.png" alt="Image" class="w-full" />
+                    <img src="/img/foo1.webp" alt="Image" class="w-full" />
                 </div>
                 <div class="flex flex-col gap-[16px]">
-                    <img src="/img/greenbar.png" alt="Image" class="w-fit" />
+                    <img src="/img/greenbar.webp" alt="Image" class="w-fit" />
                     <p class="font-28 font-bold">Kami Menyediakan Tempat Kerja yang Nyaman</p>
                     <p class="font-16">
                         Kami menawarkan sewa ruang kerja yang sempurna untuk disewakan, cocok untuk seminar, acara konferensi

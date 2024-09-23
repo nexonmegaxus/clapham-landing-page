@@ -3,8 +3,8 @@
         <!-- Description -->
         <section class="section pb-[32px] xl:pt-[200px]">
             <div class="div flex-col gap-[16px]">
-                <h1 class="font-36 font-bold">Clapham Blog</h1>
-                <p class="font-16">
+                <h1 class="font-36 font-bold dark:text-c-white">Clapham Blog</h1>
+                <p class="font-16 dark:text-c-white">
                     We build a culture where client are welcomed to engage proactively in discussion to express their ideas,
                     preferences, and feedbacks.
                 </p>
@@ -17,7 +17,7 @@
                 <!-- Left Column -->
                 <div class="grid xl:col-span-2">
                     <!-- Artikel Unggulan -->
-                    <p class="font-20 mb-[24px] font-bold">Artikel Unggulan</p>
+                    <p class="font-20 mb-[24px] font-bold dark:text-c-white">Artikel Unggulan</p>
                     <div class="grid gap-[24px]">
                         <NuxtLink
                             v-for="a in featured"
@@ -58,7 +58,7 @@
                         </NuxtLink>
                     </div>
                     <!-- Artikel Terbaru -->
-                    <p class="font-20 mb-[24px] mt-[32px] font-bold">Artikel Terbaru</p>
+                    <p class="font-20 mb-[24px] mt-[32px] font-bold dark:text-c-white">Artikel Terbaru</p>
                     <div class="grid gap-[24px] xl:grid-cols-2">
                         <NuxtLink
                             v-for="a in articles"
@@ -102,7 +102,7 @@
                 <!-- Right Column -->
                 <div>
                     <!-- Artikel Populer -->
-                    <p class="font-20 mb-[24px] mt-[32px] font-bold xl:mt-0">Artikel Populer</p>
+                    <p class="font-20 mb-[24px] mt-[32px] font-bold xl:mt-0 dark:text-c-white">Artikel Populer</p>
                     <div class="grid gap-[16px]">
                         <NuxtLink
                             v-for="a in popular"
@@ -136,7 +136,7 @@
                         </NuxtLink>
                     </div>
                     <!-- Kategori -->
-                    <p class="font-20 mb-[24px] mt-[32px] font-bold">Kategori</p>
+                    <p class="font-20 mb-[24px] mt-[32px] font-bold dark:text-c-white">Kategori</p>
                     <div class="grid gap-[16px]">
                         <NuxtLink
                             to="/category/business-tips"
@@ -166,13 +166,13 @@
 <script setup>
 // fetch archive articles
 const { data: articles } = await useFetch(
-    'https://cms.workfrom.id/wp-json/wp/v2/posts?_fields=id,slug,yoast_head_json.og_image,yoast_head_json.description,yoast_head_json.author,title,description,date,categories&per_page=10'
+    'https://cms-clapham.workfrom.id/wp-json/wp/v2/posts?_fields=id,slug,yoast_head_json.og_image,yoast_head_json.description,yoast_head_json.author,title,description,date,categories&per_page=10'
 );
 const { data: featured } = await useFetch(
-    'https://cms.workfrom.id/wp-json/wp/v2/posts?_fields=id,slug,yoast_head_json.og_image,yoast_head_json.description,yoast_head_json.author,title,description,date,categories&per_page=1'
+    'https://cms-clapham.workfrom.id/wp-json/wp/v2/posts?_fields=id,slug,yoast_head_json.og_image,yoast_head_json.description,yoast_head_json.author,title,description,date,categories&per_page=1'
 );
 const { data: popular } = await useFetch(
-    'https://cms.workfrom.id/wp-json/wp/v2/posts?_fields=id,slug,yoast_head_json.og_image,yoast_head_json.description,yoast_head_json.author,title,description,date,categories&per_page=5'
+    'https://cms-clapham.workfrom.id/wp-json/wp/v2/posts?_fields=id,slug,yoast_head_json.og_image,yoast_head_json.description,yoast_head_json.author,title,description,date,categories&per_page=5'
 );
 // seo meta
 useSeoMeta({

@@ -4,7 +4,7 @@
         <section class="section bg-black pt-[80px] xl:py-0 xl:pb-0">
             <div class="div xl:grid xl:grid-cols-2 xl:gap-[60px] xl:pr-0">
                 <div class="flex flex-col gap-[32px] xl:pt-[120px]">
-                    <img src="/img/hero2.png" alt="Image" />
+                    <img src="/img/hero2.webp" alt="Image" />
                     <div>
                         <p class="font-20 text-teal mb-[8px] font-semibold">Clapham Collective</p>
                         <p class="font-36 font-bold text-white">Solution for Private Office and Event Space Rentals in Medan</p>
@@ -28,7 +28,7 @@
                     </div>
                 </div>
                 <div class="hidden xl:flex">
-                    <img src="/img/hero1.png" alt="Image" />
+                    <img src="/img/hero1.webp" alt="Image" />
                 </div>
             </div>
         </section>
@@ -38,11 +38,11 @@
             <div
                 class="div grid grid-cols-3 items-center justify-center justify-items-center gap-[32px] text-center opacity-50 grayscale xl:grid-cols-5"
             >
-                <img src="/img/logo1.png" alt="Image" />
-                <img src="/img/logo2.png" alt="Image" />
-                <img src="/img/logo3.png" alt="Image" />
-                <img src="/img/logo4.png" alt="Image" />
-                <img src="/img/logo5.png" alt="Image" />
+                <img src="/img/logo1.webp" alt="Image" />
+                <img src="/img/logo2.webp" alt="Image" />
+                <img src="/img/logo3.webp" alt="Image" />
+                <img src="/img/logo4.webp" alt="Image" />
+                <img src="/img/logo5.webp" alt="Image" />
             </div>
         </section>
 
@@ -50,10 +50,10 @@
         <section class="section bg-white">
             <div class="div xl:gap- [80px] flex-col gap-[24px] xl:grid xl:grid-cols-2 xl:items-center">
                 <div>
-                    <img src="/img/foo2.png" alt="Image" />
+                    <img src="/img/foo2.webp" alt="Image" />
                 </div>
                 <div class="flex flex-col gap-[16px]">
-                    <img src="/img/greenbar.png" alt="Image" class="w-fit" />
+                    <img src="/img/greenbar.webp" alt="Image" class="w-fit" />
                     <p class="font-28 font-bold">Building Overview</p>
                     <p class="font-16">
                         Founded in 2015, Clapham Collective offers affordable monthly serviced private office space and event
@@ -76,11 +76,11 @@
                     </p>
                 </div>
                 <div class="flex flex-row gap-[12px] overflow-x-auto">
-                    <img src="/img/space1.png" class="w-[140px] xl:w-fit" />
-                    <img src="/img/space2.png" class="w-[140px] xl:w-fit" />
-                    <img src="/img/space3.png" class="w-[140px] xl:w-fit" />
-                    <img src="/img/space4.png" class="w-[140px] xl:w-fit" />
-                    <img src="/img/space5.png" class="w-[140px] xl:w-fit" />
+                    <img src="/img/space1.webp" class="w-[140px] xl:w-fit" />
+                    <img src="/img/space2.webp" class="w-[140px] xl:w-fit" />
+                    <img src="/img/space3.webp" class="w-[140px] xl:w-fit" />
+                    <img src="/img/space4.webp" class="w-[140px] xl:w-fit" />
+                    <img src="/img/space5.webp" class="w-[140px] xl:w-fit" />
                 </div>
             </div>
         </section>
@@ -89,40 +89,40 @@
         <section class="section bg-white">
             <div class="div flex-col gap-[24px] xl:gap-[40px]">
                 <div class="flex flex-col gap-[16px] bg-black px-[16px] py-[24px] xl:flex-row xl:items-center xl:justify-end">
-                    <img src="/img/redbar.png" alt="Image" class="w-fit" />
+                    <img src="/img/redbar.webp" alt="Image" class="w-fit" />
                     <p class="font-28 font-bold text-white">Amenities & Benefits</p>
                 </div>
                 <div class="grid grid-cols-2 gap-[20px] xl:grid-cols-4 xl:gap-[40px]">
                     <div class="bg-light-grey flex flex-col gap-[16px] p-[20px]">
-                        <img src="/img/amenities1.png" alt="Image" class="w-fit" />
+                        <img src="/img/amenities1.webp" alt="Image" class="w-fit" />
                         <p class="font-16 font-bold">High-Speed Wifi</p>
                     </div>
                     <div class="bg-light-grey flex flex-col gap-[16px] p-[20px]">
-                        <img src="/img/amenities2.png" alt="Image" class="w-fit" />
+                        <img src="/img/amenities2.webp" alt="Image" class="w-fit" />
                         <p class="font-16 font-bold">Free Drinks</p>
                     </div>
                     <div class="bg-light-grey flex flex-col gap-[16px] p-[20px]">
-                        <img src="/img/amenities3.png" alt="Image" class="w-fit" />
+                        <img src="/img/amenities3.webp" alt="Image" class="w-fit" />
                         <p class="font-16 font-bold">HD Projectors</p>
                     </div>
                     <div class="bg-light-grey flex flex-col gap-[16px] p-[20px]">
-                        <img src="/img/amenities4.png" alt="Image" class="w-fit" />
+                        <img src="/img/amenities4.webp" alt="Image" class="w-fit" />
                         <p class="font-16 font-bold">Printing Service</p>
                     </div>
                     <div class="bg-light-grey flex flex-col gap-[16px] p-[20px]">
-                        <img src="/img/amenities5.png" alt="Image" class="w-fit" />
+                        <img src="/img/amenities5.webp" alt="Image" class="w-fit" />
                         <p class="font-16 font-bold">Front Desk Service</p>
                     </div>
                     <div class="bg-light-grey flex flex-col gap-[16px] p-[20px]">
-                        <img src="/img/amenities6.png" alt="Image" class="w-fit" />
+                        <img src="/img/amenities6.webp" alt="Image" class="w-fit" />
                         <p class="font-16 font-bold">Walk-in Pantries</p>
                     </div>
                     <div class="bg-light-grey flex flex-col gap-[16px] p-[20px]">
-                        <img src="/img/amenities7.png" alt="Image" class="w-fit" />
+                        <img src="/img/amenities7.webp" alt="Image" class="w-fit" />
                         <p class="font-16 font-bold">Mail & Package Handling</p>
                     </div>
                     <div class="bg-light-grey flex flex-col gap-[16px] p-[20px]">
-                        <img src="/img/amenities8.png" alt="Image" class="w-fit" />
+                        <img src="/img/amenities8.webp" alt="Image" class="w-fit" />
                         <p class="font-16 font-bold">Access to Common Area</p>
                     </div>
                 </div>
@@ -133,7 +133,7 @@
         <section class="section bg-white">
             <div class="div flex-col gap-[24px] xl:grid xl:grid-cols-2 xl:items-center xl:gap-[80px]">
                 <div class="flex flex-col gap-[16px]">
-                    <img src="/img/greenbar.png" alt="Image" class="w-fit" />
+                    <img src="/img/greenbar.webp" alt="Image" class="w-fit" />
                     <p class="font-28 font-bold">We Provide You a Comfortable Workspace</p>
                     <p class="font-16">
                         We offer perfect event space rental, suitable for seminars, press conferences, and large company meetings
@@ -143,7 +143,7 @@
                     <a href="#forms" class="btn-red mt-[16px] w-full xl:w-fit">Book Now</a>
                 </div>
                 <div>
-                    <img src="/img/foo1.png" alt="Image" class="w-full" />
+                    <img src="/img/foo1.webp" alt="Image" class="w-full" />
                 </div>
             </div>
         </section>
@@ -152,24 +152,24 @@
         <section class="section bg-white">
             <div class="div flex-col gap-[24px] xl:gap-[40px]">
                 <div class="flex flex-col gap-[16px] bg-black px-[16px] py-[24px] xl:flex-row xl:items-center xl:justify-start">
-                    <img src="/img/redbar.png" alt="Image" class="w-fit xl:order-1" />
+                    <img src="/img/redbar.webp" alt="Image" class="w-fit xl:order-1" />
                     <p class="font-28 font-bold text-white">Surrounded by Many Facilities</p>
                 </div>
                 <!--  -->
                 <div class="flex flex-col gap-[24px] xl:grid xl:grid-cols-2 xl:gap-[40px]">
                     <div>
-                        <img src="/img/maps.png" alt="Image" class="w-full" />
+                        <img src="/img/maps.webp" alt="Image" class="w-full" />
                     </div>
                     <div class="flex flex-col gap-[16px] xl:grid xl:grid-cols-2">
                         <card class="bg-light-grey flex flex-row items-start gap-[16px] p-[20px]">
-                            <img src="/img/facilities1.png" alt="Image" class="w-fit" />
+                            <img src="/img/facilities1.webp" alt="Image" class="w-fit" />
                             <div>
                                 <p class="font-16 mb-[8px] font-bold">Train</p>
                                 <p class="font-12 xl:font-14">Airport Railway Station (400 m)</p>
                             </div>
                         </card>
                         <card class="bg-light-grey flex flex-row items-start gap-[16px] p-[20px]">
-                            <img src="/img/facilities2.png" alt="Image" class="w-fit" />
+                            <img src="/img/facilities2.webp" alt="Image" class="w-fit" />
                             <div>
                                 <p class="font-16 mb-[8px] font-bold">Taxi</p>
                                 <p class="font-12 xl:font-14">
@@ -179,14 +179,14 @@
                             </div>
                         </card>
                         <card class="bg-light-grey flex flex-row items-start gap-[16px] p-[20px]">
-                            <img src="/img/facilities3.png" alt="Image" class="w-fit" />
+                            <img src="/img/facilities3.webp" alt="Image" class="w-fit" />
                             <div>
                                 <p class="font-16 mb-[8px] font-bold">Hospital</p>
                                 <p class="font-12 xl:font-14">Murni Teguh Memoria Hospital (290 m)</p>
                             </div>
                         </card>
                         <card class="bg-light-grey flex flex-row items-start gap-[16px] p-[20px]">
-                            <img src="/img/facilities4.png" alt="Image" class="w-fit" />
+                            <img src="/img/facilities4.webp" alt="Image" class="w-fit" />
                             <div>
                                 <p class="font-16 mb-[8px] font-bold">Hotel</p>
                                 <p class="font-12 xl:font-14">
@@ -196,28 +196,28 @@
                             </div>
                         </card>
                         <card class="bg-light-grey flex flex-row items-start gap-[16px] p-[20px]">
-                            <img src="/img/facilities5.png" alt="Image" class="w-fit" />
+                            <img src="/img/facilities5.webp" alt="Image" class="w-fit" />
                             <div>
                                 <p class="font-16 mb-[8px] font-bold">Gym</p>
                                 <p class="font-12 xl:font-14">Vista Gym (76 m)</p>
                             </div>
                         </card>
                         <card class="bg-light-grey flex flex-row items-start gap-[16px] p-[20px]">
-                            <img src="/img/facilities6.png" alt="Image" class="w-fit" />
+                            <img src="/img/facilities6.webp" alt="Image" class="w-fit" />
                             <div>
                                 <p class="font-16 mb-[8px] font-bold">Mall</p>
                                 <p class="font-12 xl:font-14">Center Point (230 m)</p>
                             </div>
                         </card>
                         <card class="bg-light-grey flex flex-row items-start gap-[16px] p-[20px]">
-                            <img src="/img/facilities7.png" alt="Image" class="w-fit" />
+                            <img src="/img/facilities7.webp" alt="Image" class="w-fit" />
                             <div>
                                 <p class="font-16 mb-[8px] font-bold">Resto</p>
                                 <p class="font-12 xl:font-14">Nasi Padang Istana Krakatau (220 m)</p>
                             </div>
                         </card>
                         <card class="bg-light-grey flex flex-row items-start gap-[16px] p-[20px]">
-                            <img src="/img/facilities8.png" alt="Image" class="w-fit" />
+                            <img src="/img/facilities8.webp" alt="Image" class="w-fit" />
                             <div>
                                 <p class="font-16 mb-[8px] font-bold">Cafe</p>
                                 <p class="font-12 xl:font-14">
@@ -228,7 +228,7 @@
                             </div>
                         </card>
                         <card class="bg-light-grey flex flex-row items-start gap-[16px] p-[20px]">
-                            <img src="/img/facilities9.png" alt="Image" class="w-fit" />
+                            <img src="/img/facilities9.webp" alt="Image" class="w-fit" />
                             <div>
                                 <p class="font-16 mb-[8px] font-bold">Bar</p>
                                 <p class="font-12 xl:font-14">
@@ -247,8 +247,8 @@
         <section class="section">
             <div class="div flex-col gap-[24px] text-center xl:text-left">
                 <p class="font-28 font-bold">Our <span class="text-red">Gallery</span></p>
-                <img src="/img/gallery2.png" alt="Image" class="xl:hidden" />
-                <img src="/img/gallery1.png" alt="Image" class="hidden xl:block" />
+                <img src="/img/gallery2.webp" alt="Image" class="xl:hidden" />
+                <img src="/img/gallery1.webp" alt="Image" class="hidden xl:block" />
             </div>
         </section>
 
@@ -262,8 +262,8 @@
                 <div class="flex flex-col gap-[24px] xl:grid xl:grid-cols-2">
                     <card class="bg-light-grey flex flex-col gap-[16px] p-[16px]">
                         <div class="flex items-center justify-between">
-                            <img src="/img/avatar1.png" alt="Image" class="w-[80px] rounded-full" />
-                            <img src="/img/semicolon.png" alt="Image" class="w-[32px]" />
+                            <img src="/img/avatar1.webp" alt="Image" class="w-[80px] rounded-full" />
+                            <img src="/img/semicolon.webp" alt="Image" class="w-[32px]" />
                         </div>
                         <div>
                             <p class="font-16 font-bold xl:mb-[8px] xl:text-[28px]">Ben Johnson</p>
@@ -276,8 +276,8 @@
                     </card>
                     <card class="bg-light-grey flex flex-col gap-[16px] p-[16px]">
                         <div class="flex items-center justify-between">
-                            <img src="/img/avatar2.png" alt="Image" class="w-[80px] rounded-full" />
-                            <img src="/img/semicolon.png" alt="Image" class="w-[32px]" />
+                            <img src="/img/avatar2.webp" alt="Image" class="w-[80px] rounded-full" />
+                            <img src="/img/semicolon.webp" alt="Image" class="w-[32px]" />
                         </div>
                         <div>
                             <p class="font-16 font-bold xl:mb-[8px] xl:text-[28px]">Benny Batara</p>
@@ -298,7 +298,7 @@
         <section class="section bg-light-grey">
             <div class="div flex-col gap-[34px]">
                 <div>
-                    <img src="/img/redbar.png" alt="Image" class="mb-[34px]" />
+                    <img src="/img/redbar.webp" alt="Image" class="mb-[34px]" />
                     <p class="font-28 font-bold">What do you want to know?</p>
                 </div>
                 <div class="flex flex-col gap-[24px]">

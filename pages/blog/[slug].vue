@@ -26,9 +26,9 @@
                             Office Space
                         </p>
                         <!-- v-if category badges -->
-                        <h1 class="font-32 text-left font-bold">{{ article?.at(0)?.title.rendered }}</h1>
-                        <p class="font-16 text-left">{{ article?.at(0)?.yoast_head_json.description }}</p>
-                        <p class="font-14 text-left font-bold">{{ article?.at(0)?.date }}</p>
+                        <h1 class="font-32 text-left font-bold dark:text-c-white">{{ article?.at(0)?.title.rendered }}</h1>
+                        <p class="font-16 text-left dark:text-c-white">{{ article?.at(0)?.yoast_head_json.description }}</p>
+                        <p class="font-14 text-left font-bold dark:text-c-white">{{ article?.at(0)?.date }}</p>
                         <div class="flex w-full items-center gap-[8px] rounded-xl bg-[#E0F2FF] p-[12px]">
                             <div class="flex flex-col">
                                 <p class="font-14">{{ article?.at(0)?.yoast_head_json.author }}</p>
@@ -44,7 +44,7 @@
                         class="mb-[24px] w-[560px] rounded-lg"
                         alt="Image"
                     />
-                    <div class="font-16 article prose" v-html="article?.at(0)?.content.rendered"></div>
+                    <div class="font-16 article prose dark:text-c-white" v-html="article?.at(0)?.content.rendered"></div>
                     <div class="mt-[24px] flex w-full items-center gap-[8px] rounded-xl bg-[#E0F2FF] p-[12px]">
                         <div class="flex flex-col">
                             <p class="font-14">{{ article?.at(0)?.yoast_head_json.author }}</p>
@@ -55,7 +55,7 @@
                 <!-- Right Column -->
                 <div>
                     <!-- Artikel Serupa -->
-                    <p class="font-20 mb-[24px] mt-[32px] font-bold xl:mt-0">Artikel Serupa</p>
+                    <p class="font-20 mb-[24px] mt-[32px] font-bold xl:mt-0 dark:text-c-white">Artikel Serupa</p>
                     <div class="grid gap-[16px]">
                         <NuxtLink
                             v-for="a in similar"
@@ -89,7 +89,7 @@
                         </NuxtLink>
                     </div>
                     <!-- Kategori -->
-                    <p class="font-20 mb-[24px] mt-[32px] font-bold">Kategori</p>
+                    <p class="font-20 mb-[24px] mt-[32px] font-bold dark:text-c-white">Kategori</p>
                     <div class="grid gap-[16px]">
                         <NuxtLink
                             to="/category/business-tips"
@@ -141,9 +141,9 @@
 
 // fetch
 const { slug } = useRoute().params;
-const { data: article } = await useFetch(`https://cms.workfrom.id/wp-json/wp/v2/posts?slug=${slug}`);
+const { data: article } = await useFetch(`https://cms-clapham.workfrom.id/wp-json/wp/v2/posts?slug=${slug}`);
 const { data: similar } = await useFetch(
-    'https://cms.workfrom.id/wp-json/wp/v2/posts?_fields=id,slug,yoast_head_json.og_image,yoast_head_json.description,yoast_head_json.author,title,description,date,categories&per_page=5&categories=30'
+    'https://cms-clapham.workfrom.id/wp-json/wp/v2/posts?_fields=id,slug,yoast_head_json.og_image,yoast_head_json.description,yoast_head_json.author,title,description,date,categories&per_page=5&categories=30'
 );
 // seo meta
 useSeoMeta({
