@@ -136,7 +136,7 @@
                         </NuxtLink>
                     </div>
                     <!-- Kategori -->
-                    <p class="font-20 mb-[24px] mt-[32px] font-bold dark:text-c-white">Kategori</p>
+                    <!-- <p class="font-20 mb-[24px] mt-[32px] font-bold dark:text-c-white">Kategori</p>
                     <div class="grid gap-[16px]">
                         <NuxtLink
                             to="/category/business-tips"
@@ -156,7 +156,7 @@
                         >
                             <h2 class="font-16 font-bold">Office Space</h2>
                         </NuxtLink>
-                    </div>
+                    </div> -->
                 </div>
             </div>
         </section>
@@ -164,6 +164,11 @@
 </template>
 
 <script setup>
+// force light mode
+definePageMeta({
+    colorMode: 'light',
+});
+
 // fetch archive articles
 const { data: articles } = await useFetch(
     'https://cms-clapham.workfrom.id/wp-json/wp/v2/posts?_fields=id,slug,yoast_head_json.og_image,yoast_head_json.description,yoast_head_json.author,title,description,date,categories&per_page=10'

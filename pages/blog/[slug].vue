@@ -89,7 +89,7 @@
                         </NuxtLink>
                     </div>
                     <!-- Kategori -->
-                    <p class="font-20 mb-[24px] mt-[32px] font-bold dark:text-c-white">Kategori</p>
+                    <!-- <p class="font-20 mb-[24px] mt-[32px] font-bold dark:text-c-white">Kategori</p>
                     <div class="grid gap-[16px]">
                         <NuxtLink
                             to="/category/business-tips"
@@ -109,7 +109,7 @@
                         >
                             <h2 class="font-16 font-bold">Office Space</h2>
                         </NuxtLink>
-                    </div>
+                    </div> -->
                 </div>
             </div>
         </section>
@@ -117,27 +117,10 @@
 </template>
 
 <script setup>
-// define interface
-// interface Article {
-//     id: number;
-//     slug: string;
-//     title: {
-//         rendered: string;
-//     };
-//     content: {
-//         rendered: string;
-//     };
-//     yoast_head_json: {
-//         title: string;
-//         description?: string;
-//         og_image: [
-//             {
-//                 url: string;
-//                 type: 'image/jpeg';
-//             },
-//         ];
-//     };
-// }
+// force light mode
+definePageMeta({
+    colorMode: 'light',
+});
 
 // fetch
 const { slug } = useRoute().params;

@@ -413,6 +413,11 @@
 </template>
 
 <script setup>
+// force light mode
+definePageMeta({
+    colorMode: 'light',
+});
+
 useSeoMeta({
     title: 'Sewa Ruangan Kantor Murah Harga Bulanan di Medan',
     description:

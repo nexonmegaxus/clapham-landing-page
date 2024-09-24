@@ -385,3 +385,10 @@
         </section>
     </main>
 </template>
+
+<script setup>
+// force light mode
+definePageMeta({
+    colorMode: 'light',
+});
+</script>
