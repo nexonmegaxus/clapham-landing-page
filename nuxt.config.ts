@@ -30,4 +30,7 @@ export default defineNuxtConfig({
         url: 'https://clapham.workfrom.id/',
         defaultLocale: 'id',
     },
+    seo: {
+        redirectToCanonicalSiteUrl: true,
+    },
 });
